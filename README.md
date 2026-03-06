@@ -1,1 +1,4 @@
-# cpsc368_2026_group5_phase3
+# CPSC 368 Group Project
+## Group 5
+
+这个repo是用来同步处理数量的
