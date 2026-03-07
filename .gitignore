@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # mac
-.DS_Storedata/raw/name.basics.tsv.gz
+.DS_Store
