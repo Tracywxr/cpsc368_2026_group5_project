@@ -1,0 +1,1620 @@
+movie_id,title,year,genres,imdb_rating,rotten_tomatoes,age
+tt0069049,The Other Side of the Wind,2018,Drama,6.7,61,18+
+tt0315642,Wazir,2016,"Action,Crime,Drama",7.1,59,13+
+tt0365545,Nappily Ever After,2018,"Comedy,Drama,Romance",6.4,74,18+
+tt0460890,The Only Living Boy in New York,2017,Drama,6.4,63,18+
+tt0462335,High-Rise,2015,"Drama,Sci-Fi",5.5,67,18+
+tt0475290,"Hail, Caesar!",2016,"Comedy,Drama,Mystery",6.3,72,13+
+tt0478970,Ant-Man,2015,"Action,Comedy,Sci-Fi",7.2,84,13+
+tt0490215,Silence,2016,"Drama,History",7.2,77,18+
+tt0800325,The Dirt,2019,"Biography,Comedy,Drama",7.0,79,18+
+tt0810819,The Danish Girl,2015,"Biography,Drama",7.1,75,18+
+tt0810836,Dirt Music,2019,"Crime,Drama,Romance",5.4,48,13+
+tt0825283,Maximum Ride,2016,"Action,Adventure,Comedy",3.6,50,13+
+tt0837156,Pee-wee's Big Holiday,2016,"Comedy,Family",6.1,73,7+
+tt0837563,Pet Sematary,2019,"Horror,Mystery,Thriller",5.7,68,18+
+tt10003978,Fiddler: A Miracle of Miracles,2019,Documentary,7.6,51,13+
+tt10011500,Slay the Dragon,2019,Documentary,7.3,48,13+
+tt1002563,The Young Messiah,2016,"Drama,Fantasy",5.7,57,13+
+tt10054316,Guest House,2020,Comedy,4.4,51,18+
+tt10055028,Dolphin Reef,2018,"Documentary,Family",7.4,48,all
+tt10059518,Unhinged,2020,"Action,Thriller",6.0,72,18+
+tt10060094,The Knight Before Christmas,2019,"Adventure,Comedy,Drama",5.6,60,7+
+tt10065694,Antebellum,2020,"Drama,Horror,Mystery",5.8,67,18+
+tt10091530,Holiday Rush,2019,"Comedy,Drama,Family",5.0,48,7+
+tt10092752,Earth and Blood,2020,"Action,Drama,Thriller",5.2,46,18+
+tt10121762,Uriyadi 2,2019,Thriller,7.0,49,all
+tt10127562,Dragon Quest: Your Story,2019,"Action,Adventure,Animation",6.5,60,7+
+tt10127684,Rogue City,2020,"Action,Crime,Drama",6.1,60,13+
+tt10147546,Homecoming: A Film by Beyoncé,2019,"Documentary,Music",7.6,71,13+
+tt10156112,"Hello, Love, Goodbye",2019,"Drama,Romance",7.3,58,7+
+tt10161886,The Prom,2020,"Comedy,Drama,Musical",5.9,65,13+
+tt10165624,Christmas Coupon,2019,"Comedy,Family,Romance",3.4,40,all
+tt10181594,Uncle Naji in UAE,2019,"Comedy,Horror",5.3,38,13+
+tt10183816,Dangerous Lies,2020,"Crime,Mystery,Thriller",5.4,60,16+
+tt10199586,Atlantics,2019,"Drama,Fantasy,Mystery",6.7,79,13+
+tt10199914,The Boys in the Band,2020,Drama,6.8,64,18+
+tt10229846,Rolling Stone: Life and Death of Brian Jones,2019,"Documentary,Music",6.2,43,13+
+tt10230422,Class of '83,2020,"Crime,Drama,Thriller",5.8,53,16+
+tt10230436,Yeh Ballet,2020,"Drama,Musical",7.5,53,13+
+tt10230492,Still Today,2020,"Comedy,Romance",5.5,42,16+
+tt10235600,Kaali Khuhi,2020,"Drama,Horror,Mystery",3.7,39,16+
+tt10243992,I'm Your Woman,2020,"Crime,Drama",6.2,65,18+
+tt10250750,Boonie Bears: Blast Into the Past,2019,"Adventure,Animation,Fantasy",5.6,44,7+
+tt1025100,Gemini Man,2019,"Action,Sci-Fi,Thriller",5.7,73,13+
+tt10253466,Badland,2019,"Drama,Western",5.6,54,13+
+tt10255320,Deviant Love,2019,Thriller,3.6,43,16+
+tt10276114,Rapid Response,2019,"Documentary,Sport",8.1,46,13+
+tt10276470,Work It,2020,"Comedy,Music",6.1,62,16+
+tt10288566,Another Round,2020,"Comedy,Drama",7.7,80,18+
+tt10289996,The Black Godfather,2019,"Biography,Documentary",7.5,57,18+
+tt10303324,Survive the Night,2020,"Action,Drama,Thriller",4.0,54,18+
+tt10307440,The Decline,2020,"Action,Thriller",6.0,58,18+
+tt10308928,Force of Nature,2020,"Action,Adventure,Crime",4.6,58,18+
+tt10324122,Secret Society of Second Born Royals,2020,"Action,Adventure,Comedy",5.1,60,7+
+tt10324144,Article 15,2019,"Crime,Drama,Mystery",8.1,92,18+
+tt1034385,Cold Skin,2017,"Action,Fantasy,Horror",6.0,63,16+
+tt1034415,Suspiria,2018,"Drama,Fantasy,Horror",6.7,73,18+
+tt10350626,Gunjan Saxena: The Kargil Girl,2020,"Action,Biography,Drama",5.6,65,16+
+tt10362466,After We Collided,2020,"Drama,Romance",5.1,68,18+
+tt10394738,I Am Greta,2020,"Biography,Documentary",7.5,63,16+
+tt10397734,The Set Up,2019,"Crime,Drama",4.2,37,18+
+tt10431500,Miracle in Cell No. 7,2019,Drama,8.2,77,16+
+tt10456740,Lost Bullet,2020,"Action,Crime,Thriller",6.4,73,18+
+tt10477558,Violet Evergarden: Eternity and the Auto Memory Doll,2019,"Animation,Drama,Family",7.5,63,7+
+tt10514222,Ma Rainey's Black Bottom,2020,"Drama,Music",6.9,84,18+
+tt10525174,Narco Soldiers,2019,"Action,Crime",4.0,38,13+
+tt10525672,Silver Skates,2020,"Adventure,Drama,Romance",7.1,62,18+
+tt10529644,Copper Bill,2020,Thriller,3.7,42,7+
+tt10539608,The Midnight Sky,2020,"Adventure,Drama,Sci-Fi",5.7,71,13+
+tt10579992,Mister America,2019,Comedy,6.4,53,18+
+tt10589914,The Forest of Love,2019,"Crime,Drama,Horror",6.2,69,18+
+tt10600398,We Can Be Heroes,2020,"Action,Animation,Comedy",4.7,54,7+
+tt10618286,Mank,2020,"Biography,Drama",6.8,74,18+
+tt10627584,The Life Ahead,2020,Drama,6.8,82,13+
+tt10637682,The Panti Sisters,2019,Comedy,5.7,46,13+
+tt10642834,The Forty-Year-Old Version,2020,"Comedy,Drama",7.2,64,18+
+tt10649016,Safety,2020,"Biography,Drama,Sport",6.8,61,7+
+tt10682266,Hubie Halloween,2020,"Comedy,Horror,Mystery",5.3,63,13+
+tt1070874,The Trial of the Chicago 7,2020,"Drama,History,Thriller",7.7,92,18+
+tt10709060,Game Over,2019,"Action,Crime,Horror",6.1,74,13+
+tt10711654,Most Likely to Succeed,2019,Documentary,7.0,47,16+
+tt10714856,Feel the Beat,2020,"Comedy,Drama,Family",6.3,62,all
+tt10715194,Back to School,2019,Comedy,5.3,49,18+
+tt1072748,Winchester,2018,"Biography,Fantasy,Horror",5.5,65,13+
+tt10728764,Nobody Knows I'm Here,2020,"Drama,Music",6.5,74,18+
+tt10731386,Audrey,2020,"Biography,Documentary,History",7.1,61,16+
+tt10773090,Sarileru Neekevvaru,2020,"Action,Comedy,Drama",5.8,56,13+
+tt10773114,One Day We'll Talk About Today,2020,Drama,7.3,53,all
+tt10798660,Wish Upon a Unicorn,2020,"Adventure,Family,Fantasy",5.3,47,7+
+tt10816484,18 Presents,2020,"Drama,Family,Fantasy",6.9,67,18+
+tt10845262,Miracle in Cell No. 7,2019,"Comedy,Drama",7.5,77,16+
+tt10851618,Rising Phoenix,2020,"Documentary,Sport",8.1,67,13+
+tt10856726,Travis Scott: Look Mom I Can Fly,2019,"Documentary,Music",6.3,55,18+
+tt1086064,Bill & Ted Face the Music,2020,"Adventure,Comedy,Music",5.9,72,7+
+tt10883004,"Bikram: Yogi, Guru, Predator",2019,"Crime,Documentary",6.7,75,18+
+tt10886166,365 Days,2020,"Drama,Romance",3.3,59,18+
+tt10895610,Float,2019,Documentary,6.9,60,7+
+tt10915286,Tell Me Who I Am,2019,"Documentary,Drama,Mystery",7.6,89,18+
+tt10920190,Righteous Villains,2020,"Crime,Thriller",3.3,40,18+
+tt10933680,Debt Collectors,2020,"Action,Comedy",5.8,56,18+
+tt10941528,Under the Riccione Sun,2020,"Comedy,Drama,Romance",5.6,49,18+
+tt10958282,Street Flow,2019,"Crime,Drama",6.4,42,18+
+tt10994688,The Binge,2020,Comedy,5.3,62,18+
+tt11010144,Seriously Single,2020,"Comedy,Romance",4.6,50,18+
+tt11044122,Never Surrender: A Galaxy Quest Documentary,2019,Documentary,7.7,61,13+
+tt11057594,Fatal Affair,2020,"Crime,Horror,Mystery",4.6,46,16+
+tt11057644,The Christmas Chronicles: Part Two,2020,"Adventure,Comedy,Family",6.0,64,7+
+tt11057912,Tuna Girl,2019,"Comedy,Drama",6.2,41,7+
+tt11101550,Tales of Found Footage,2019,Horror,3.6,38,18+
+tt11127690,The Paramedic,2020,"Crime,Drama,Thriller",5.7,62,18+
+tt11156614,Dead Kids,2019,"Drama,Thriller",5.4,49,18+
+tt11161474,Pieces of a Woman,2020,Drama,7.0,88,18+
+tt11199410,The Princess Switch: Switched Again,2020,"Comedy,Drama,Family",5.5,57,all
+tt1124037,Free State of Jones,2016,"Action,Biography,Drama",6.9,72,18+
+tt11240506,Nobody Sleeps in the Woods Tonight,2020,"Comedy,Fantasy,Horror",4.9,59,18+
+tt11242218,Books of Blood,2020,"Drama,Horror,Mystery",5.6,60,18+
+tt11276598,Pets United,2019,"Adventure,Animation,Comedy",3.7,50,7+
+tt11284280,Cadaver,2020,"Drama,Horror,Thriller",5.2,56,18+
+tt11327514,Uncle Frank,2020,"Comedy,Drama",7.3,69,18+
+tt11378154,The App That Stole Christmas,2020,Comedy,2.7,39,7+
+tt11378264,Mucho Mucho Amor: The Legend of Walter Mercado,2020,"Biography,Documentary",7.3,58,16+
+tt11388406,Horse Girl,2020,"Drama,Mystery,Thriller",6.0,72,18+
+tt11388580,Miss Americana,2020,"Biography,Documentary,Music",7.4,90,18+
+tt11390036,A Fall from Grace,2020,"Crime,Drama,Mystery",5.9,60,18+
+tt11394180,Dick Johnson Is Dead,2020,"Biography,Documentary,Drama",7.4,64,13+
+tt11394184,The Fight,2020,Documentary,6.8,58,13+
+tt11394338,Giving Voice,2020,Documentary,7.0,68,13+
+tt11416746,Time,2020,"Biography,Documentary",6.8,73,13+
+tt11426644,We Are Freestyle Love Supreme,2020,"Comedy,Documentary,Musical",7.0,64,18+
+tt11454066,You Cannot Kill David Arquette,2020,"Documentary,Sport",7.1,59,18+
+tt11464826,The Social Dilemma,2020,"Documentary,Drama",7.6,93,13+
+tt11576124,Rogue,2020,"Action,Horror,Thriller",4.2,57,18+
+tt1158939,Never Grow Old,2019,"Drama,Thriller,Western",6.0,58,18+
+tt11640412,#FriendButMarried 2,2020,"Biography,Comedy,Drama",6.8,47,16+
+tt11642302,#cats_the_mewvie,2020,Documentary,5.3,46,16+
+tt11649910,Forgotten,2017,Documentary,8.0,70,18+
+tt11651796,AK vs AK,2020,"Comedy,Crime,Drama",6.9,60,18+
+tt11656172,Hard Kill,2020,"Action,Thriller",3.1,53,18+
+tt11681250,Godmothered,2020,"Comedy,Drama,Family",6.1,63,7+
+tt11690838,The Legend of Baron To'a,2020,"Action,Comedy",6.4,46,18+
+tt11697484,The 2nd,2020,"Action,Drama",3.9,52,16+
+tt11749980,Tarung Sarung,2020,"Action,Drama",5.9,46,16+
+tt11792734,Leyla Everlasting,2020,Comedy,3.7,45,18+
+tt11827806,So Much Love to Give,2020,Comedy,5.3,47,16+
+tt1183374,Pet,2016,"Crime,Horror,Thriller",5.7,62,18+
+tt11835236,Generasi 90an: Melankolia,2020,Drama,5.5,41,13+
+tt11905462,Athlete A,2020,"Crime,Documentary,Sport",7.6,67,13+
+tt11905962,Sputnik,2020,"Drama,Horror,Mystery",6.4,70,18+
+tt11906032,Picture a Scientist,2020,Documentary,7.8,49,13+
+tt11916302,Derek DelGaudio's In & Of Itself,2020,Documentary,8.2,67,13+
+tt11958344,A Whisker Away,2020,"Adventure,Animation,Drama",6.7,81,7+
+tt11968072,A Stone in the Water,2019,Thriller,4.0,42,18+
+tt11988512,One-Way to Tomorrow,2020,"Comedy,Drama,Romance",5.6,53,18+
+tt11990802,Don't Call Me Bigfoot,2020,Documentary,5.6,43,7+
+tt11994750,Made You Look: A True Story About Fake Art,2020,"Crime,Documentary",7.0,57,18+
+tt12036052,Elephant,2020,"Adventure,Biography,Documentary",7.3,54,all
+tt12053202,Arendelle Castle Yule Log,2019,Animation,4.7,38,all
+tt1206885,Rambo: Last Blood,2019,"Action,Crime,Thriller",6.1,73,18+
+tt12100044,In the Footsteps of Elephant,2020,"Adventure,Documentary,Family",7.1,45,all
+tt12108272,Close Encounters of the Fifth Kind,2020,Documentary,6.1,57,7+
+tt12116846,Pandemic,2020,Thriller,4.6,55,18+
+tt1211837,Doctor Strange,2016,"Action,Adventure,Fantasy",7.5,85,13+
+tt12139700,Jungle Beat: The Movie,2020,"Adventure,Animation,Comedy",5.5,51,all
+tt12187586,Father Soldier Son,2020,"Documentary,War",7.3,53,18+
+tt12215286,Dino Dana: The Movie,2020,"Adventure,Family,Fantasy",5.2,45,7+
+tt1226837,Beautiful Boy,2018,"Biography,Drama",7.4,87,18+
+tt12282598,Intuition,2020,"Crime,Drama,Mystery",5.6,50,18+
+tt12298506,Black Box,2020,"Horror,Mystery,Sci-Fi",6.2,61,16+
+tt1230168,Same Kind of Different as Me,2017,"Biography,Drama",6.6,64,13+
+tt12323842,Gina Brillon: The Floor Is Lava,2020,Comedy,6.4,43,18+
+tt1235187,Where Hands Touch,2018,"Drama,Romance,War",6.6,59,13+
+tt1239242,Frank and Cindy,2015,Comedy,6.0,50,18+
+tt12393526,Bulbbul,2020,"Drama,Horror,Mystery",6.6,63,18+
+tt12517908,Aliens Stole My Body,2020,"Adventure,Comedy,Family",3.4,39,7+
+tt12538822,All In: The Fight for Democracy,2020,Documentary,6.9,74,13+
+tt12588398,We Are One,2020,Documentary,5.7,36,18+
+tt12607910,Black Is King,2020,"Adventure,Drama,Fantasy",6.0,79,16+
+tt1266036,Valley Girl,2020,"Comedy,Music,Musical",5.5,57,13+
+tt12660966,Lost on Everest,2020,Documentary,6.6,48,13+
+tt12690910,Hamilton: History Has Its Eyes on You,2020,"Documentary,Talk-Show",6.5,41,7+
+tt12724622,Anelka: Misunderstood,2020,"Documentary,Sport",6.4,53,16+
+tt12752158,Terror at Bigfoot Pond,2020,Thriller,1.3,34,18+
+tt12757438,Smiley Face Killers,2020,"Horror,Thriller",3.7,43,18+
+tt12766708,Deep in Vogue,2019,Documentary,6.5,42,18+
+tt12792418,Night in Paradise,2020,"Action,Crime,Drama",6.8,60,16+
+tt12824834,Jennifer Aniston: More Than Friends,2020,"Biography,Documentary",4.8,40,7+
+tt12838350,The Assistant,2020,Thriller,4.7,66,18+
+tt1285009,The Strangers: Prey at Night,2018,Horror,5.3,64,18+
+tt12888462,My Octopus Teacher,2020,"Documentary,Drama",8.1,83,all
+tt1289401,Ghostbusters,2016,"Action,Comedy,Fantasy",6.8,78,13+
+tt12981810,Finding Jesus,2020,"Animation,Family,Fantasy",1.3,36,all
+tt12982218,GIMS: On the Record,2020,"Documentary,Music",6.8,41,18+
+tt1298644,The Hustle,2019,"Comedy,Crime",5.5,67,13+
+tt12987894,American Murder: The Family Next Door,2020,"Crime,Documentary",7.2,68,18+
+tt13009186,The Boy from Medellín,2020,"Biography,Documentary,Music",6.1,53,18+
+tt1302006,The Irishman,2019,"Biography,Crime,Drama",7.8,98,18+
+tt13033280,Space Dogs: Tropical Adventure,2020,"Action,Adventure,Animation",4.3,42,7+
+tt13055780,A California Christmas,2020,"Comedy,Drama,Romance",5.9,57,13+
+tt13058290,Blackpink: Light Up the Sky,2020,"Documentary,Music",7.3,63,all
+tt13065386,Totally Under Control,2020,Documentary,7.6,64,16+
+tt13081264,Story of Kale: When Someone's in Love,2020,"Drama,Romance",6.3,44,18+
+tt1308728,The Happytime Murders,2018,"Action,Comedy,Crime",5.5,64,18+
+tt13106900,All Because of You,2020,"Action,Comedy,Romance",4.1,41,7+
+tt13143964,Borat Subsequent Moviefilm,2020,Comedy,6.6,88,18+
+tt13150630,Secrets of the Saqqara Tomb,2020,"Documentary,History",7.2,60,7+
+tt13179918,Meteor Moon,2020,"Action,Sci-Fi",2.4,42,7+
+tt13206564,The Three Deaths of Marisela Escobedo,2020,"Crime,Documentary",8.1,62,18+
+tt13236566,Operation Christmas Drop,2020,"Comedy,Family,Romance",5.9,62,all
+tt13237174,The Real Right Stuff,2020,Documentary,7.2,54,7+
+tt13276386,Shawn Mendes: In Wonder,2020,"Documentary,Music",6.5,49,18+
+tt13279528,What We Wanted,2020,Drama,5.9,51,18+
+tt13290168,High School Musical: The Musical: The Holiday Special,2020,"Comedy,Drama,Musical",5.6,45,all
+tt13292206,Bobbleheads: The Movie,2020,"Animation,Family",2.4,38,7+
+tt13318052,Midnight at the Magnolia,2020,"Comedy,Romance",5.8,52,all
+tt13410288,The Decline,2020,Documentary,6.4,58,18+
+tt13528990,Shawn Mendes: Live in Concert,2020,Music,7.3,47,7+
+tt1365050,Beasts of No Nation,2015,"Drama,War",7.7,74,18+
+tt13723064,All My Friends Are Dead,2020,"Comedy,Crime,Horror",5.9,57,18+
+tt1386691,Shimmer Lake,2017,"Action,Comedy,Crime",6.3,61,18+
+tt1464763,Mute,2018,"Mystery,Sci-Fi,Thriller",5.5,64,18+
+tt1480285,Abattoir,2016,"Horror,Mystery,Thriller",4.5,54,18+
+tt1485796,The Greatest Showman,2017,"Biography,Drama,Musical",7.5,82,7+
+tt1488606,Triple Frontier,2019,"Action,Adventure,Thriller",6.5,72,18+
+tt1489887,Booksmart,2019,Comedy,7.1,78,18+
+tt1507002,Bottom of the 9th,2019,Drama,5.7,50,18+
+tt1536537,What Happened to Monday,2017,"Action,Crime,Fantasy",6.8,86,18+
+tt1540011,Blair Witch,2016,"Horror,Mystery,Thriller",5.0,64,18+
+tt1542768,True Memoirs of an International Assassin,2016,"Action,Comedy,Crime",5.9,61,16+
+tt1544608,Voice from the Stone,2017,"Drama,Mystery,Thriller",5.2,59,18+
+tt1545304,Desperados,2020,"Comedy,Romance",5.2,57,18+
+tt1552211,The Last Days of American Crime,2020,"Action,Crime,Drama",3.8,46,18+
+tt1588878,The Late Bloomer,2016,"Comedy,Drama,Romance",5.2,58,18+
+tt1617661,Jupiter Ascending,2015,"Action,Adventure,Animation",5.3,71,13+
+tt1618434,Murder Mystery,2019,"Crime,Mystery,Romance",6.1,76,13+
+tt1620680,A Wrinkle in Time,2018,"Adventure,Drama,Family",4.3,62,7+
+tt1620981,The Addams Family,2019,"Animation,Comedy,Family",5.9,68,7+
+tt1629242,Careful What You Wish For,2015,"Drama,Romance,Thriller",5.6,61,18+
+tt1655441,The Age of Adaline,2015,"Drama,Fantasy,Romance",7.2,77,13+
+tt1655461,Wild Oats,2016,"Action,Adventure,Comedy",5.7,56,13+
+tt1680140,The Stolen,2017,"Action,Adventure,Drama",5.4,51,16+
+tt1690967,Come Sunday,2018,"Biography,Drama",6.0,64,16+
+tt1691916,Before I Fall,2017,"Drama,Fantasy,Mystery",6.4,71,13+
+tt1694021,Into the Grizzly Maze,2015,"Action,Adventure,Horror",5.3,60,18+
+tt1712192,Message from the King,2016,"Action,Crime,Drama",6.4,62,18+
+tt1712261,Triple 9,2016,"Action,Crime,Drama",6.3,70,18+
+tt1714917,Gimme Danger,2016,"Documentary,Music",7.2,62,18+
+tt1720621,Trafficked,2017,"Drama,Thriller",5.8,53,18+
+tt1724970,Beyond Skyline,2017,"Action,Adventure,Horror",5.3,63,18+
+tt1727770,Absolutely Anything,2015,"Comedy,Sci-Fi",6.0,67,18+
+tt1727824,Bohemian Rhapsody,2018,"Biography,Drama,Music",7.9,85,13+
+tt1730768,The Zookeeper's Wife,2017,"Biography,Drama,History",7.0,71,13+
+tt1734493,Unlocked,2017,"Action,Thriller",6.3,69,18+
+tt1754656,The Little Prince,2015,"Adventure,Animation,Comedy",7.6,74,7+
+tt1773753,Mara,2018,"Crime,Horror,Mystery",5.1,59,18+
+tt1780967,Seberg,2019,"Biography,Drama,History",6.0,65,18+
+tt1781922,No Escape,2015,"Action,Thriller",6.8,73,18+
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,2017,"Action,Adventure,Fantasy",6.5,78,13+
+tt1799516,Benji,2018,"Crime,Drama,Family",6.4,59,7+
+tt1801552,Gotti,2018,"Biography,Crime,Drama",4.8,58,18+
+tt1825683,Black Panther,2018,"Action,Adventure,Sci-Fi",7.3,84,13+
+tt1830643,Death of Me,2020,"Horror,Mystery,Thriller",4.5,56,18+
+tt1833116,The Informer,2019,"Action,Crime,Drama",6.6,70,18+
+tt1838556,Honest Thief,2020,"Action,Crime,Drama",6.0,72,13+
+tt1841642,Demonic,2015,"Horror,Mystery,Thriller",5.3,61,18+
+tt1860242,The Highwaymen,2019,"Biography,Crime,Drama",6.9,73,18+
+tt1878841,The Darkness,2016,"Horror,Thriller",4.5,59,13+
+tt1880399,Kodachrome,2017,Drama,6.8,67,18+
+tt1918734,2067,2020,"Mystery,Sci-Fi",4.9,62,16+
+tt1935194,Overdrive,2017,"Action,Adventure,Crime",5.4,59,13+
+tt1935859,Miss Peregrine's Home for Peculiar Children,2016,"Adventure,Drama,Family",6.7,76,13+
+tt1937340,Beyond Paradise,2015,"Drama,Romance",5.4,44,7+
+tt1949605,Who Gets the Dog?,2016,Comedy,4.9,50,7+
+tt1950135,Drunk Wedding,2015,Comedy,4.6,45,18+
+tt1950235,Let It Snow,2019,"Comedy,Romance",5.9,73,13+
+tt1961175,American Assassin,2017,"Action,Thriller",6.2,72,18+
+tt1974419,The Neon Demon,2016,"Horror,Thriller",6.1,70,18+
+tt1979376,Toy Story 4,2019,"Adventure,Animation,Comedy",7.6,82,all
+tt1979388,The Good Dinosaur,2015,"Action,Adventure,Animation",6.7,75,7+
+tt1999890,Hell Fest,2018,"Horror,Mystery,Thriller",5.5,61,18+
+tt2005151,War Dogs,2016,"Biography,Comedy,Crime",7.1,79,18+
+tt2006295,The 33,2015,"Biography,Drama,History",6.9,69,13+
+tt2016335,Walter,2015,"Comedy,Drama",5.4,51,18+
+tt2025690,The Finest Hours,2016,"Action,Drama,History",6.7,72,13+
+tt2032572,USS Indianapolis: Men of Courage,2016,"Action,Drama,History",5.3,63,18+
+tt2057392,Eye in the Sky,2015,"Action,Drama,Thriller",7.3,75,18+
+tt2066051,Rocketman,2019,"Biography,Drama,Music",7.3,79,18+
+tt2069797,Delirium,2018,"Horror,Thriller",5.7,62,18+
+tt2072233,Sleepless,2017,"Action,Crime,Thriller",5.6,67,18+
+tt2076298,Ip Man 4: The Finale,2019,"Action,Biography,Drama",7.0,71,16+
+tt2080374,Steve Jobs,2015,"Biography,Drama",7.2,76,18+
+tt2090465,Black Butterfly,2017,"Drama,Mystery,Thriller",6.1,63,18+
+tt2093991,Elvis & Nixon,2016,"Comedy,History",6.3,62,18+
+tt2106651,Spectral,2016,"Action,Adventure,Sci-Fi",6.3,71,13+
+tt2114504,Woody Woodpecker,2017,"Adventure,Animation,Comedy",4.2,52,7+
+tt2126357,Second Act,2018,"Comedy,Drama,Romance",5.8,66,13+
+tt2140379,Self/less,2015,"Action,Mystery,Sci-Fi",6.5,73,13+
+tt2197936,Fatima,2020,"Drama,War",6.6,57,13+
+tt2224026,Home,2015,"Adventure,Animation,Comedy",6.5,74,7+
+tt2226597,The Mountain Between Us,2017,"Drama,Thriller",6.4,72,13+
+tt2235695,Rebecca,2020,"Drama,Mystery,Romance",6.1,60,13+
+tt2277860,Finding Dory,2016,"Adventure,Animation,Comedy",7.2,81,7+
+tt2291540,My Friend Dahmer,2017,"Biography,Crime,Drama",6.2,66,18+
+tt2323912,Beast Mode,2020,"Comedy,Horror",3.7,44,18+
+tt2338424,Tumbledown,2015,"Comedy,Drama,Music",6.2,62,18+
+tt2365580,"Where'd You Go, Bernadette",2019,"Comedy,Crime,Drama",6.5,67,13+
+tt2368254,A Private War,2018,"Biography,Drama,War",6.7,67,18+
+tt2380307,Coco,2017,"Adventure,Animation,Drama",8.4,87,7+
+tt2386237,Malevolent,2018,"Horror,Mystery,Thriller",4.9,60,18+
+tt2386404,He Never Died,2015,"Comedy,Drama,Fantasy",6.3,64,18+
+tt2388771,Mowgli: Legend of the Jungle,2018,"Adventure,Drama,Fantasy",6.5,69,13+
+tt2390335,The Bone Garden,2016,Thriller,3.3,38,18+
+tt2395427,Avengers: Age of Ultron,2015,"Action,Adventure,Sci-Fi",7.3,84,13+
+tt2396589,Mudbound,2017,"Drama,War",7.4,91,18+
+tt2401097,Tracers,2015,"Action,Crime,Drama",5.6,60,13+
+tt2404465,Troop Zero,2019,"Comedy,Drama,Family",6.9,64,7+
+tt2417712,Goon: Last of the Enforcers,2017,"Comedy,Sport",5.8,62,18+
+tt2424988,Gabbar Is Back,2015,"Action,Crime,Drama",7.1,60,13+
+tt2433040,Beyond the Mask,2015,"Action,Adventure,Drama",5.1,51,7+
+tt2452042,The Peanuts Movie,2015,"Adventure,Animation,Comedy",7.0,72,all
+tt2452386,The Fundamentals of Caring,2016,"Comedy,Drama",7.3,89,18+
+tt2474932,Despite the Falling Snow,2016,"Drama,Mystery,Romance",5.8,56,13+
+tt2477218,Field of Lost Shoes,2015,"Action,Drama,War",5.8,50,13+
+tt2479478,The Ridiculous 6,2015,"Action,Adventure,Comedy",4.9,62,13+
+tt2481498,"Extremely Wicked, Shockingly Evil and Vile",2019,"Biography,Crime,Drama",6.7,74,18+
+tt2499472,Point Blank,2019,"Action,Crime,Drama",5.7,57,18+
+tt2523832,A Girl Like Her,2015,Drama,7.0,63,13+
+tt2538204,#Lucky Number,2015,Comedy,5.0,46,16+
+tt2543164,Arrival,2016,"Drama,Mystery,Sci-Fi",7.9,86,13+
+tt2548396,The Cloverfield Paradox,2018,"Horror,Sci-Fi,Thriller",5.5,69,13+
+tt2554274,Crimson Peak,2015,"Drama,Horror,Mystery",6.5,75,18+
+tt2566644,Seoul Searching,2015,"Comedy,Drama,Music",6.9,71,18+
+tt2567026,Alice Through the Looking Glass,2016,"Adventure,Family,Fantasy",6.2,73,7+
+tt2582498,Sweet Virginia,2017,"Drama,Thriller",6.2,64,18+
+tt2582576,Sand Castle,2017,"Action,Drama,War",6.3,69,18+
+tt2582782,Hell or High Water,2016,"Crime,Drama,Thriller",7.6,81,18+
+tt2582784,Flower,2017,"Comedy,Drama,Romance",6.0,62,18+
+tt2586120,Racer and the Jailbird,2017,"Crime,Drama,Romance",6.3,57,18+
+tt2597760,The Outcasts,2017,Comedy,5.4,57,13+
+tt2649554,Midnight Special,2016,"Drama,Mystery,Sci-Fi",6.6,73,13+
+tt2652118,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,"Action,Adventure,Drama",6.1,64,13+
+tt2660888,Star Trek Beyond,2016,"Action,Adventure,Sci-Fi",7.0,80,13+
+tt2702920,The Secret Garden,2020,"Drama,Family,Fantasy",5.6,60,7+
+tt2713980,Olympia,2018,"Biography,Comedy,Documentary",7.7,46,16+
+tt2718440,Moonwalkers,2015,"Action,Comedy",6.1,58,18+
+tt2726552,A Kind of Murder,2016,"Crime,Drama,Mystery",5.3,58,18+
+tt2737304,Bird Box,2018,"Horror,Mystery,Sci-Fi",6.6,86,18+
+tt2752772,Sinister 2,2015,"Horror,Mystery,Thriller",5.3,64,18+
+tt2782692,Ali's Wedding,2017,"Comedy,Drama,Romance",6.9,74,18+
+tt2788732,Pete's Dragon,2016,"Action,Adventure,Comedy",6.7,72,7+
+tt2800050,A Beautiful Planet,2016,Documentary,7.3,64,all
+tt2802136,Home Sweet Hell,2015,"Comedy,Crime,Horror",5.5,60,18+
+tt2806390,Milton's Secret,2016,"Drama,Family",5.9,49,7+
+tt2865120,Ratchet & Clank,2016,"Action,Adventure,Animation",5.5,63,7+
+tt2866708,Strange But True,2019,"Drama,Mystery,Thriller",5.9,58,13+
+tt2884018,Macbeth,2015,"Drama,History,War",6.6,67,18+
+tt2888046,Ip Man 3,2015,"Action,Biography,Crime",7.0,71,13+
+tt2910904,The Dressmaker,2015,"Comedy,Drama",7.0,72,18+
+tt2931140,New Life,2016,"Drama,Romance",6.2,48,7+
+tt2932536,47 Meters Down,2017,"Horror,Mystery,Thriller",5.6,69,13+
+tt2933474,Superfast!,2015,"Action,Comedy,Crime",4.2,57,13+
+tt2936390,Battle Drone,2018,"Action,Sci-Fi",4.9,53,13+
+tt2937366,Little Evil,2017,"Comedy,Fantasy,Horror",5.7,62,18+
+tt2938956,The Transporter Refueled,2015,"Action,Thriller",5.2,64,13+
+tt2948356,Zootopia,2016,"Action,Adventure,Animation",8.0,85,7+
+tt2948372,Soul,2020,"Adventure,Animation,Comedy",8.0,89,7+
+tt2948606,Assassin's Game,2015,Action,3.0,36,18+
+tt2950052,Bravetown,2015,"Drama,Music",6.1,57,18+
+tt2950418,Greater,2016,"Biography,Family,Sport",7.3,65,7+
+tt2962984,Girlfriend's Day,2017,"Comedy,Drama",5.2,53,18+
+tt2967226,Killing Hasselhoff,2017,Comedy,4.5,50,18+
+tt2978102,Term Life,2016,"Action,Adventure,Crime",5.6,59,18+
+tt2980210,A Hologram for the King,2016,"Comedy,Drama,Romance",6.1,67,18+
+tt2990126,100 Streets,2016,"Crime,Drama",5.8,57,18+
+tt2990140,The Christmas Chronicles,2018,"Adventure,Comedy,Family",7.0,84,7+
+tt3009772,Ode to Joy,2019,"Comedy,Romance",6.4,61,18+
+tt3014078,Shangri-La Suite,2016,"Action,Crime,Drama",5.2,49,16+
+tt3016748,Jacob's Ladder,2019,"Horror,Thriller",3.6,51,18+
+tt3018070,Stonewall,2015,"Drama,History",5.4,57,18+
+tt30216076,Chhota Bheem Ka Roosi Romanch,2019,Animation,7.8,12,all
+tt3038708,Iron Sky: The Coming Race,2019,"Action,Adventure,Comedy",5.0,58,18+
+tt3053228,Day of the Dead: Bloodline,2017,"Action,Drama,Horror",3.5,52,18+
+tt3065204,The Conjuring 2,2016,"Horror,Mystery,Thriller",7.3,81,18+
+tt3068194,Love & Friendship,2016,"Comedy,Drama,Romance",6.4,65,13+
+tt3072482,Hardcore Henry,2015,"Action,Adventure,Sci-Fi",6.7,73,18+
+tt3074546,Casual Encounters,2016,Comedy,4.4,45,18+
+tt3077214,Suffragette,2015,"Drama,History",6.9,69,13+
+tt3082854,The Commune,2016,Drama,6.4,59,18+
+tt3083008,The Program,2015,"Biography,Drama,Sport",6.5,65,13+
+tt3089630,Artemis Fowl,2020,"Adventure,Family,Fantasy",4.3,60,7+
+tt3095734,Monster Trucks,2016,"Action,Adventure,Comedy",5.7,65,7+
+tt3100274,Manhattan Night,2016,"Crime,Drama,Mystery",6.2,62,18+
+tt3111426,Lost Girls,2020,"Crime,Drama,Mystery",6.2,65,18+
+tt3120280,Sierra Burgess Is a Loser,2018,"Comedy,Drama,Romance",5.7,64,13+
+tt3120960,A Hitman in London,2015,"Action,Crime",3.9,47,18+
+tt3131050,Delirium,2018,"Horror,Thriller",3.4,62,18+
+tt3148502,Tamasha,2015,"Comedy,Drama,Romance",7.4,64,7+
+tt3155328,Win It All,2017,Comedy,6.2,72,18+
+tt3155342,All Together Now,2020,"Drama,Romance",6.5,59,7+
+tt3164256,Rock the Kasbah,2015,"Comedy,Music,War",5.5,58,18+
+tt3174376,Before I Wake,2016,"Drama,Fantasy,Horror",6.2,78,13+
+tt3183402,Veronica,2017,"Drama,Mystery,Thriller",5.9,81,18+
+tt3201640,Extinction,2018,"Action,Drama,Sci-Fi",5.8,74,18+
+tt3203528,Bad Samaritan,2018,"Crime,Drama,Horror",6.5,67,18+
+tt3203606,Trumbo,2015,"Biography,Drama",7.4,75,18+
+tt3203620,The Dinner,2017,"Crime,Drama,Thriller",4.5,54,18+
+tt3208026,Black '47,2018,"Action,Drama,History",6.8,64,18+
+tt3216348,Incarnate,2016,"Horror,Thriller",5.3,61,13+
+tt3228088,Spark: A Space Tail,2016,"Action,Adventure,Animation",4.4,48,7+
+tt3233418,Spare Parts,2015,"Biography,Drama,History",7.2,66,13+
+tt3234084,I Do... Until I Don't,2017,Comedy,4.4,52,18+
+tt3236120,I'll See You in My Dreams,2015,"Comedy,Drama,Romance",6.7,60,13+
+tt3255590,El Camino Christmas,2017,"Comedy,Crime,Western",5.7,59,18+
+tt3256226,IO,2019,"Adventure,Drama,Sci-Fi",4.8,59,13+
+tt3260524,A Secret Love,2020,"Biography,Documentary,Drama",7.8,87,18+
+tt3278540,A Nice Girl Like You,2020,"Comedy,Romance",5.2,56,18+
+tt3282076,Domino,2019,"Crime,Thriller",4.5,55,18+
+tt3292080,The Journey Is the Destination,2016,Drama,6.4,49,18+
+tt3311020,Be Afraid,2017,"Horror,Sci-Fi,Thriller",4.8,52,16+
+tt3316948,American Ultra,2015,"Action,Comedy",6.1,72,18+
+tt3317234,"Game Over, Man!",2018,"Action,Comedy",5.5,63,18+
+tt3317696,There Is Many Like Us,2015,"Biography,Documentary,Drama",7.8,47,13+
+tt3319920,Regression,2015,"Crime,Drama,Mystery",5.6,64,18+
+tt3322892,XX,2017,Horror,4.6,57,18+
+tt3322898,Baby Steps,2015,"Comedy,Drama,Family",5.9,46,18+
+tt3332064,Pan,2015,"Action,Adventure,Comedy",5.7,66,7+
+tt3335606,Berlin Syndrome,2017,"Drama,Horror,Mystery",6.3,67,18+
+tt3340446,Storm Boy,2019,"Drama,Family",6.9,59,7+
+tt3349578,Bad Kids of Crestview Academy,2017,"Action,Comedy,Thriller",4.7,51,18+
+tt3375972,The Price of Fame,2017,Documentary,5.5,45,7+
+tt3379352,Mully,2015,"Adventure,Biography,Documentary",8.3,51,7+
+tt3385516,X-Men: Apocalypse,2016,"Action,Adventure,Sci-Fi",6.8,80,13+
+tt3401748,Oddball,2015,"Adventure,Family",6.5,60,7+
+tt3405236,Raees,2017,"Action,Crime,Drama",6.6,73,18+
+tt3410408,Rocky Handsome,2016,"Action,Crime,Drama",6.8,58,18+
+tt3411444,Ferdinand,2017,"Adventure,Animation,Comedy",6.7,72,7+
+tt3415992,The Time of Their Lives,2017,Comedy,6.1,51,16+
+tt3416532,A Monster Calls,2016,"Adventure,Drama,Family",7.4,76,13+
+tt3416828,Ice Age: Collision Course,2016,"Action,Adventure,Animation",5.7,69,all
+tt3447364,Detective Byomkesh Bakshy!,2015,"Crime,Drama,Mystery",7.6,64,18+
+tt3451230,High Strung,2016,"Drama,Music,Romance",6.3,63,all
+tt3451984,Another Time,2018,"Adventure,Comedy,Romance",4.6,48,18+
+tt3458510,Dude,2018,"Comedy,Drama",5.2,53,18+
+tt3460252,The Hateful Eight,2015,"Crime,Drama,Mystery",7.8,85,18+
+tt3480886,Ma ma,2015,Drama,6.4,57,18+
+tt3481000,Chocolate City,2015,Drama,4.0,45,18+
+tt3481634,Inconceivable,2017,"Drama,Thriller",5.2,59,18+
+tt3482000,A Thousand Junkies,2017,"Comedy,Drama",6.1,44,18+
+tt3498820,Captain America: Civil War,2016,"Action,Sci-Fi",7.8,86,13+
+tt3501632,Thor: Ragnarok,2017,"Action,Adventure,Comedy",7.9,86,13+
+tt3503406,The Whole Truth,2016,"Crime,Drama,Mystery",6.2,67,18+
+tt3507138,A Girl Like Grace,2015,Drama,5.6,50,13+
+tt3511596,Close Range,2015,"Action,Crime,Thriller",5.1,47,18+
+tt3521126,The Disaster Artist,2017,"Biography,Comedy,Drama",7.3,78,18+
+tt3521164,Moana,2016,"Adventure,Animation,Comedy",7.6,83,7+
+tt3547306,Cut Throat City,2020,"Action,Crime,Drama",4.9,53,18+
+tt3553976,Captain Fantastic,2016,"Adventure,Comedy,Drama",7.8,82,18+
+tt3567666,Stratton,2017,"Action,Adventure,Thriller",4.8,57,18+
+tt3569230,Legend,2015,"Biography,Crime,Drama",6.9,75,18+
+tt3588588,Backtrace,2018,"Crime,Drama,Thriller",3.8,52,18+
+tt3606752,Cars 3,2017,"Adventure,Animation,Comedy",6.7,76,all
+tt3606756,Incredibles 2,2018,"Action,Adventure,Animation",7.5,83,7+
+tt3608930,In a Valley of Violence,2016,"Action,Drama,Western",6.1,63,18+
+tt3610576,Hope Lost,2015,"Drama,Thriller",3.9,50,18+
+tt3614530,Jem and the Holograms,2015,"Adventure,Drama,Family",4.2,55,7+
+tt3620846,Happy Birthday,2016,"Comedy,Horror,Thriller",5.2,50,18+
+tt3625516,MindGamers,2015,"Action,Sci-Fi,Thriller",3.6,45,18+
+tt3650484,Brothers,2015,Documentary,7.6,54,13+
+tt3654796,Creep 2,2017,"Horror,Thriller",6.4,67,18+
+tt3660770,Monkey Kingdom,2015,Documentary,7.2,61,all
+tt3661298,Septembers of Shiraz,2015,"Drama,History,Thriller",6.2,55,13+
+tt3661394,The One and Only Ivan,2020,"Adventure,Comedy,Drama",6.6,67,7+
+tt3672120,Pottersville,2017,Comedy,5.5,52,13+
+tt3685236,Ibiza,2018,"Comedy,Romance",5.2,67,18+
+tt3687398,The Runner,2015,Drama,4.7,54,18+
+tt3691740,The BFG,2016,"Adventure,Family,Fantasy",6.3,72,7+
+tt3700364,Marshall's Miracle,2015,Family,5.7,43,7+
+tt3703836,Henry Gamble's Birthday Party,2015,Drama,6.1,57,18+
+tt3704416,Digging for Fire,2015,"Comedy,Drama",5.8,58,18+
+tt3707106,By the Sea,2015,"Drama,Romance",5.3,59,18+
+tt3707114,Janis: Little Girl Blue,2015,"Biography,Documentary,Music",7.4,62,18+
+tt3711510,The Warning,2018,"Crime,Drama,Fantasy",5.9,57,18+
+tt3715320,Irrational Man,2015,"Comedy,Crime,Drama",6.6,69,18+
+tt3721964,Gringo,2018,"Action,Comedy,Crime",6.1,65,18+
+tt3722070,The Lady in the Van,2015,"Biography,Comedy,Drama",6.7,68,13+
+tt3722614,Revolt,2017,"Action,Adventure,Sci-Fi",5.3,59,18+
+tt3727982,Ava's Possessions,2015,"Comedy,Horror,Mystery",5.6,55,18+
+tt3730510,Puerto Ricans in Paris,2015,"Comedy,Crime",5.4,50,18+
+tt3732280,When Angels Sleep,2018,"Adventure,Drama,Horror",5.5,52,18+
+tt3739110,The Yellow Birds,2017,"Drama,War",5.8,56,18+
+tt3746298,Vendetta,2015,"Action,Drama",4.7,51,18+
+tt3746824,Sheep & Wolves,2016,"Animation,Comedy,Family",5.8,55,all
+tt3748172,Gerald's Game,2017,"Drama,Horror,Thriller",6.5,88,18+
+tt3748440,Blue Mountain State: The Rise of Thadland,2016,"Comedy,Sport",5.7,58,18+
+tt3748528,Rogue One: A Star Wars Story,2016,"Action,Adventure,Sci-Fi",7.8,85,13+
+tt3748718,Ride the Thunder,2015,History,6.6,51,13+
+tt3755362,Rendez-Vous,2015,"Drama,Romance",5.6,58,13+
+tt3758172,Jungle,2017,"Adventure,Biography,Drama",6.7,74,18+
+tt3766394,"Hello, My Name Is Doris",2015,"Comedy,Drama,Romance",6.6,65,18+
+tt3767278,Bayou Caviar,2018,"Crime,Mystery,Thriller",4.6,49,18+
+tt3771536,Shivaay,2016,"Action,Crime,Drama",6.1,60,13+
+tt3774114,Snowden,2016,"Biography,Crime,Drama",7.3,78,18+
+tt3774466,Ashby,2015,"Comedy,Crime,Drama",6.4,62,18+
+tt3776826,Operation Avalanche,2016,"Comedy,Drama,Mystery",6.1,60,18+
+tt3778354,Bear with Us,2016,Comedy,6.7,44,18+
+tt3778644,Solo: A Star Wars Story,2018,"Action,Adventure,Sci-Fi",6.9,79,13+
+tt3780500,Journey's End,2017,"Drama,War",6.7,62,18+
+tt3799232,The Kissing Booth,2018,"Comedy,Romance",5.9,73,16+
+tt3799694,The Nice Guys,2016,"Action,Comedy,Crime",7.4,81,18+
+tt3802576,Brothers,2015,"Action,Drama,Sport",6.4,54,13+
+tt3804756,Mothers of the Bride,2015,"Comedy,Drama",5.0,39,7+
+tt3813310,Cop Car,2015,"Crime,Thriller",6.3,65,18+
+tt3824412,Results,2015,"Comedy,Romance",5.5,56,18+
+tt3829378,Stephanie,2017,"Horror,Mystery",5.8,59,18+
+tt3833474,Never Let Go,2015,"Action,Drama,Thriller",5.3,47,18+
+tt3833480,The Outpost,2019,"Action,Drama,History",6.9,71,18+
+tt3835080,31,2016,"Horror,Thriller",5.1,64,18+
+tt3846674,To All the Boys I've Loved Before,2018,"Comedy,Drama,Romance",7.0,94,13+
+tt3859272,Tragedy Girls,2017,"Comedy,Crime,Horror",6.0,62,18+
+tt3860092,Everything About Her,2016,"Comedy,Drama",7.3,52,7+
+tt3864056,The Goldfinch,2019,"Crime,Drama,Mystery",6.4,67,18+
+tt3892172,Leave No Trace,2018,"Adventure,Drama",7.1,76,7+
+tt3896102,"Tad, the Lost Explorer, and the Secret of King Midas",2017,"Adventure,Animation,Comedy",6.2,57,7+
+tt3896198,Guardians of the Galaxy Vol. 2,2017,"Action,Adventure,Comedy",7.6,85,13+
+tt3907584,All the Bright Places,2020,"Drama,Romance",6.6,67,18+
+tt3957956,12 Rounds 3: Lockdown,2015,"Action,Crime,Thriller",5.1,56,18+
+tt3962984,The Black Prince,2017,"Drama,History",5.7,55,13+
+tt3963816,Marauders,2016,"Action,Crime,Thriller",5.5,64,18+
+tt3967856,Okja,2017,"Action,Adventure,Drama",7.3,92,13+
+tt3967878,Illang: The Wolf Brigade,2018,"Action,Drama,Sci-Fi",5.9,60,18+
+tt3972110,The Assault,2017,"Action,Thriller",3.6,38,18+
+tt3977462,Full Out,2015,"Biography,Drama,Family",6.3,60,7+
+tt3979300,Magic Camp,2020,"Comedy,Family,Fantasy",6.3,59,7+
+tt3993886,All Day and a Night,2020,Drama,6.0,64,18+
+tt4000956,Brother Nature,2016,Comedy,4.9,48,18+
+tt4002772,Once I Was a Beehive,2015,"Comedy,Drama,Family",6.2,53,7+
+tt4003440,The House That Jack Built,2018,"Crime,Drama,Horror",6.8,73,18+
+tt4007558,Shaandaar,2015,"Comedy,Drama,Romance",3.7,45,13+
+tt4008566,The Influence,2019,Horror,4.6,46,18+
+tt4016934,The Handmaiden,2016,"Drama,Romance,Thriller",8.1,81,18+
+tt4019560,Exposed,2016,"Crime,Drama,Mystery",4.4,57,18+
+tt4034208,The Next Skin,2016,"Drama,Mystery,Thriller",6.1,49,18+
+tt4034228,Manchester by the Sea,2016,Drama,7.8,81,18+
+tt4034452,Hyena Road,2015,"Drama,War",6.5,61,18+
+tt4052050,He's Out There,2018,"Horror,Thriller",5.3,58,18+
+tt4068576,The Nightingale,2018,"Adventure,Drama,Thriller",7.3,71,18+
+tt4072296,Ruta Madre,2019,"Comedy,Drama",4.6,40,13+
+tt4083572,Urge,2016,"Drama,Horror,Mystery",4.3,54,18+
+tt4086018,Charming,2018,"Adventure,Animation,Comedy",5.6,56,all
+tt4102722,The Night Watchmen,2017,"Action,Comedy,Horror",5.4,54,18+
+tt4106514,The Postcard Killings,2020,"Crime,Drama,Mystery",5.8,63,18+
+tt4109632,A Million Happy Nows,2017,"Drama,Romance",6.5,49,16+
+tt4110568,Dil Dhadakne Do,2015,"Comedy,Drama,Romance",7.1,59,13+
+tt4111956,A World Away,2019,"Adventure,Fantasy",3.9,47,13+
+tt4118606,The Curse of Sleeping Beauty,2016,"Fantasy,Horror,Mystery",4.3,53,16+
+tt4126304,Cartel Land,2015,Documentary,7.3,69,18+
+tt4126476,After,2019,"Drama,Romance",5.3,71,13+
+tt4129428,Jagga Jasoos,2017,"Adventure,Comedy,Musical",6.4,71,7+
+tt4136084,Florence Foster Jenkins,2016,"Biography,Comedy,Drama",6.8,69,13+
+tt4139588,Polar,2019,"Action,Crime,Thriller",6.3,73,18+
+tt4144190,Wiener-Dog,2016,"Comedy,Drama",5.9,67,18+
+tt4144332,Deidra & Laney Rob a Train,2017,"Comedy,Crime,Drama",6.0,65,16+
+tt4151192,The Condemned 2,2015,"Action,Thriller",4.2,49,18+
+tt4154664,Captain Marvel,2019,"Action,Adventure,Sci-Fi",6.7,81,13+
+tt4154756,Avengers: Infinity War,2018,"Action,Adventure,Sci-Fi",8.4,90,13+
+tt4154796,Avengers: Endgame,2019,"Action,Adventure,Sci-Fi",8.4,90,13+
+tt4172498,E19 Virus,2017,Horror,2.8,39,13+
+tt4174926,Where Love Found Me,2016,"Action,Adventure,Drama",5.7,38,13+
+tt4180290,Come Out Fighting,2016,"Crime,Drama,Sport",7.6,46,18+
+tt4180560,Otherhood,2019,Comedy,6.1,65,18+
+tt4181052,Special Correspondents,2016,Comedy,5.9,56,13+
+tt4191054,Strange Magic,2015,"Adventure,Animation,Comedy",5.8,62,7+
+tt4196848,Mr. Church,2016,"Comedy,Drama",7.6,73,13+
+tt4205718,Intersect,2020,"Horror,Sci-Fi,Thriller",3.5,53,18+
+tt4210080,The Confirmation,2016,"Adventure,Comedy,Drama",6.4,59,13+
+tt4213806,Toro,2016,"Action,Crime,Drama",5.9,52,13+
+tt4225622,The Babysitter,2017,"Comedy,Horror",6.4,71,18+
+tt4230700,Complete Unknown,2016,"Drama,Mystery",5.4,56,18+
+tt4257940,The Lost Husband,2020,"Drama,Romance",6.1,59,13+
+tt4258698,Southside with You,2016,"Biography,Drama,History",6.3,63,13+
+tt4266076,The Night Eats the World,2018,"Drama,Horror,Thriller",6.0,65,16+
+tt4267026,Hell House LLC,2015,"Horror,Mystery",6.4,65,18+
+tt4269118,Seven in Heaven,2018,"Drama,Horror,Mystery",5.4,53,13+
+tt4270516,Grandma,2015,"Comedy,Drama",6.7,66,18+
+tt4273292,Under the Shadow,2016,"Drama,Fantasy,Horror",6.8,68,13+
+tt4293752,Gascoigne,2015,"Biography,Documentary,Sport",7.0,56,13+
+tt4296186,An Inspector Calls,2015,"Comedy,Mystery",4.9,68,7+
+tt4323594,I'm No Longer Here,2019,"Drama,Music",7.3,61,18+
+tt4327752,Lady Bloodfight,2016,"Action,Crime,Drama",5.6,55,18+
+tt4329242,Love Jacked,2018,"Comedy,Romance",5.9,58,13+
+tt4332232,Fractured,2019,"Drama,Mystery,Thriller",6.5,73,18+
+tt4333674,Hunterrr,2015,"Comedy,Romance",7.0,57,18+
+tt4338154,Hawaizaada,2015,"Biography,Drama",5.5,46,7+
+tt4341582,Queen of Katwe,2016,"Biography,Drama,Sport",7.4,68,7+
+tt4353250,The Last Black Man in San Francisco,2019,Drama,7.2,70,18+
+tt4354740,Dharam Sankat Mein,2015,Comedy,6.3,53,13+
+tt4357394,Tau,2018,"Horror,Sci-Fi,Thriller",5.8,67,18+
+tt4364194,The Peanut Butter Falcon,2019,"Adventure,Comedy,Drama",7.6,78,13+
+tt4379728,Three,2016,"Action,Crime,Thriller",5.9,62,13+
+tt4382824,Army of One,2016,"Biography,Comedy,Crime",5.2,58,18+
+tt4384148,The Underground Sinema,2015,Comedy,4.1,39,18+
+tt4397342,Cities of Last Things,2018,"Crime,Drama,Sci-Fi",6.3,52,18+
+tt4400994,The Ballad of Lefty Brown,2017,"Action,Drama,Western",6.3,60,18+
+tt4411584,The Secret: Dare to Dream,2020,"Drama,Romance",6.6,64,7+
+tt4413338,Abzurdah,2015,"Biography,Drama,Romance",5.4,52,13+
+tt4426464,Arctic Dogs,2019,"Adventure,Animation,Comedy",4.9,51,7+
+tt4430136,Pyaar Ka Punchnama 2,2015,"Comedy,Drama,Romance",7.2,63,13+
+tt4430212,Drishyam,2015,"Crime,Drama,Mystery",8.2,72,18+
+tt4432804,Last Day of School,2016,Comedy,2.8,38,18+
+tt4434004,Udta Punjab,2016,"Crime,Drama",7.7,80,18+
+tt4442130,Wild Horses,2015,"Crime,Drama,Mystery",4.8,53,18+
+tt4454078,Supercon,2018,"Action,Comedy",3.7,45,18+
+tt4464394,The Gracefield Incident,2017,"Horror,Mystery,Sci-Fi",4.2,53,13+
+tt4466894,Sahara,2017,"Adventure,Animation,Comedy",5.5,53,7+
+tt4486728,Saved by Grace,2016,Drama,5.8,45,7+
+tt4489160,You're My Boss,2015,"Comedy,Romance",6.3,51,7+
+tt4497338,Interrogation,2016,"Action,Thriller",4.9,50,18+
+tt4499228,Gehenna: Where Death Lives,2016,"Horror,Mystery,Thriller",4.9,50,18+
+tt4500196,Two Wrongs,2015,Drama,7.3,44,16+
+tt4503906,Pokémon the Movie: Hoopa and the Clash of Ages,2015,"Action,Adventure,Animation",5.9,55,7+
+tt4513674,Café Society,2016,"Comedy,Drama,Romance",6.6,69,13+
+tt4518260,Albion: The Enchanted Stallion,2016,"Action,Adventure,Comedy",5.3,51,7+
+tt4520988,Frozen II,2019,"Adventure,Animation,Comedy",6.8,78,7+
+tt4532818,Sophie and the Rising Sun,2016,Drama,6.7,52,18+
+tt4535650,Dilwale,2015,"Action,Comedy,Drama",5.1,57,7+
+tt4540710,Miss Sloane,2016,Drama,7.5,76,18+
+tt4550098,Nocturnal Animals,2016,"Drama,Thriller",7.4,81,18+
+tt4550420,My Blind Brother,2016,"Comedy,Drama,Romance",6.1,56,18+
+tt4559006,Ae Dil Hai Mushkil,2016,"Drama,Musical,Romance",5.9,59,13+
+tt4560008,This Beautiful Fantastic,2016,"Comedy,Drama,Romance",6.9,65,7+
+tt4560436,Mile 22,2018,"Action,Crime,Thriller",6.1,72,18+
+tt4565520,The Layover,2017,"Comedy,Romance",4.8,59,18+
+tt4569494,No Place to Hide: The Rehtaeh Parsons Story,2015,"Crime,Documentary",7.3,45,13+
+tt4572792,The Book of Henry,2017,"Crime,Drama,Thriller",6.6,70,13+
+tt4573516,Sleight,2016,"Crime,Drama,Sci-Fi",5.9,63,18+
+tt4574654,Beneath the Leaves,2019,Thriller,4.5,48,18+
+tt4575576,Christopher Robin,2018,"Adventure,Comedy,Drama",7.2,75,7+
+tt4575782,Prayer Never Fails,2016,Drama,5.1,35,7+
+tt4578118,Rupture,2016,"Horror,Sci-Fi,Thriller",4.9,58,18+
+tt4587366,Eliminators,2016,"Action,Thriller",5.6,61,18+
+tt4594834,Chi-Raq,2015,"Comedy,Crime,Drama",5.9,60,18+
+tt4594836,Darc,2018,"Action,Thriller",5.8,51,18+
+tt4601180,730,2015,"Action,Crime,Drama",7.6,48,18+
+tt4607228,Arctic Heart,2016,"Comedy,Drama,Romance",5.2,44,16+
+tt4610378,The Resistance Banker,2018,"Biography,Drama,War",6.9,82,18+
+tt4614612,Peterloo,2018,"Drama,History",6.5,60,13+
+tt4616250,The Perfect Weapon,2016,"Action,Sci-Fi,Thriller",2.9,46,13+
+tt4623856,Wolves,2016,"Comedy,Drama,Family",5.7,55,18+
+tt4624424,Storks,2016,"Adventure,Animation,Comedy",6.8,73,7+
+tt4628812,The Breakup Playlist,2015,"Drama,Music,Romance",6.5,39,7+
+tt4629266,Born in China,2016,Documentary,7.2,60,all
+tt4630444,Being Charlie,2015,"Drama,Romance",6.2,58,18+
+tt4632316,Gleason,2016,"Biography,Documentary",8.3,63,18+
+tt4633690,Shot Caller,2017,"Crime,Drama,Thriller",7.3,75,18+
+tt4651410,Precious Cargo,2016,"Action,Comedy,Thriller",4.6,58,18+
+tt4661798,Joshy,2016,"Comedy,Drama",5.9,59,18+
+tt4662420,All Nighter,2017,"Comedy,Drama",5.8,59,18+
+tt4666726,Christine,2016,"Biography,Drama",6.9,65,18+
+tt4669186,Kevin Hart: What Now?,2016,"Comedy,Documentary",6.0,62,18+
+tt4669264,Beirut,2018,"Action,Adventure,Crime",6.5,66,18+
+tt4669296,Lords of Chaos,2018,"Biography,Drama,Horror",6.6,64,18+
+tt4669986,Loving,2016,"Biography,Drama,Romance",7.0,70,13+
+tt4677924,Woodshock,2017,"Drama,Fantasy,Mystery",4.2,48,18+
+tt4678200,Judge Singh LLB,2015,Drama,7.3,44,all
+tt4682786,Collateral Beauty,2016,"Drama,Romance",6.8,75,13+
+tt4685554,The Snow Queen 3: Fire and Ice,2016,"Adventure,Animation,Comedy",6.0,54,7+
+tt4685806,The Con is On,2018,"Comedy,Crime",3.8,52,18+
+tt4686108,Love Beats Rhymes,2017,"Drama,Musical",5.4,51,18+
+tt4686844,The Death of Stalin,2017,"Comedy,Drama,History",7.3,75,18+
+tt4686862,Almost Adults,2016,"Comedy,Drama",5.6,59,16+
+tt4687108,In the Tall Grass,2019,"Horror,Mystery,Sci-Fi",5.5,66,18+
+tt4693358,OtherLife,2017,"Crime,Drama,Mystery",6.2,65,18+
+tt4694544,Once Upon a Time in Venice,2017,"Adventure,Comedy,Crime",5.3,63,18+
+tt4695012,It Comes at Night,2017,"Drama,Horror,Mystery",6.1,72,18+
+tt4698684,Hunt for the Wilderpeople,2016,"Adventure,Comedy,Drama",7.8,80,13+
+tt4703048,6 Days,2017,"Action,Drama,History",6.2,65,18+
+tt4712076,The Long Dumb Road,2018,Comedy,6.1,56,18+
+tt4729430,Klaus,2019,"Adventure,Animation,Comedy",8.2,78,7+
+tt4733736,Double Daddy,2015,"Drama,Romance,Thriller",5.8,51,16+
+tt4738360,The Last King,2016,"Action,Drama,History",6.1,60,18+
+tt4742274,Forest Fairies,2015,"Adventure,Family,Fantasy",5.7,41,all
+tt4743226,Air Strike,2018,"Action,Adventure,Drama",3.2,50,18+
+tt4758646,War Machine,2017,"Comedy,Drama,War",6.0,69,18+
+tt4762824,The Legacy of a Whitetail Deer Hunter,2018,"Comedy,Drama",5.5,56,16+
+tt4763168,Kindergarten Cop 2,2016,"Action,Comedy",4.4,55,13+
+tt4769824,In This Corner of the World,2016,"Animation,Drama,History",7.8,68,13+
+tt4769836,The Do-Over,2016,"Action,Adventure,Comedy",5.7,66,18+
+tt4776998,The Promise,2016,"Action,Adventure,Drama",6.1,68,13+
+tt4777008,Maleficent: Mistress of Evil,2019,"Adventure,Drama,Family",6.6,76,7+
+tt4786282,Lights Out,2016,"Horror,Mystery",6.3,74,13+
+tt4796122,Satanic,2016,Horror,3.7,51,18+
+tt4797436,Jack Goes Home,2016,"Drama,Horror,Mystery",5.1,53,18+
+tt4799064,Mindhorn,2016,"Action,Adventure,Comedy",6.3,66,18+
+tt4801232,In Search of Fellini,2017,"Adventure,Biography,Drama",6.2,53,18+
+tt4807408,The Best of Enemies,2019,"Biography,Drama,History",7.3,70,13+
+tt4815122,Time Trap,2017,"Action,Adventure,Mystery",6.2,68,18+
+tt4824302,Mother's Day,2016,"Comedy,Drama,Romance",5.7,69,13+
+tt4827558,High Life,2018,"Drama,Sci-Fi,Thriller",5.7,68,18+
+tt4832248,What If It Works?,2017,"Comedy,Drama,Romance",5.5,45,18+
+tt4837126,Love Everlasting,2016,"Drama,Romance",6.3,54,7+
+tt4838334,The Fight Within,2016,"Action,Romance,Sport",4.4,46,13+
+tt4842270,Beauty and the Bestie,2015,"Action,Comedy,Drama",4.9,45,16+
+tt4842646,The Most Hated Woman in America,2017,"Biography,Drama,History",6.1,55,18+
+tt4844148,Mia and the White Lion,2018,"Adventure,Drama,Family",6.5,60,7+
+tt4846232,Good Time,2017,"Crime,Drama,Thriller",7.3,77,18+
+tt4846340,Hidden Figures,2016,"Biography,Drama,History",7.8,83,7+
+tt4853102,Batman: The Killing Joke,2016,"Action,Animation,Crime",6.4,70,18+
+tt4855748,XOXO,2016,"Drama,Music",5.3,57,18+
+tt4857264,The Invisible Guest,2016,"Crime,Drama,Mystery",8.0,83,18+
+tt4858674,Stargirl,2020,"Comedy,Drama,Family",6.2,74,7+
+tt4863386,Camino,2016,"Comedy,Crime",6.9,47,18+
+tt4867110,Swiped,2018,"Comedy,Romance",2.8,48,16+
+tt4872078,The Intervention,2016,"Comedy,Drama",6.0,58,18+
+tt4876036,Olympia,2018,"Drama,Romance",6.3,46,16+
+tt4878482,Dumplin',2018,"Comedy,Drama",6.5,83,13+
+tt4882376,First They Killed My Father,2017,"Biography,Drama,History",7.2,67,18+
+tt4898730,Temple,2017,"Adventure,Drama,Horror",3.7,52,18+
+tt4900018,Keith Richards: Under the Influence,2015,"Documentary,Music",7.1,58,7+
+tt4900716,Kapoor & Sons,2016,"Comedy,Drama,Family",7.7,84,13+
+tt4902716,Rebirth,2016,Thriller,5.0,50,18+
+tt4902904,The Resurrection of Gavin Stone,2017,"Comedy,Drama,Family",6.3,55,7+
+tt4908644,Winter on Fire: Ukraine's Fight for Freedom,2015,"Documentary,History",8.3,89,16+
+tt4911288,Danger Close,2017,"Action,Documentary,History",4.4,44,16+
+tt4911408,Citizen Soldier,2016,"Documentary,War",5.9,51,18+
+tt4911996,Goldstone,2016,"Action,Crime,Mystery",6.6,61,18+
+tt4924942,The Invisible Guardian,2017,"Crime,Mystery,Thriller",6.4,65,16+
+tt4925292,Lady Bird,2017,"Comedy,Drama",7.4,81,18+
+tt4930176,Mercy,2016,"Drama,Mystery",6.2,37,all
+tt4935334,Southbound,2015,Horror,5.9,64,18+
+tt4935462,Amazing Grace,2018,"Documentary,Music",7.5,64,all
+tt4935746,The Darkness,2016,Thriller,5.6,59,13+
+tt4936176,Mascots,2016,Comedy,5.8,57,18+
+tt4936450,Graduation,2016,"Crime,Drama",7.3,72,18+
+tt4940416,Duck Duck Goose,2018,"Adventure,Animation,Comedy",5.8,53,7+
+tt4943322,The Ottoman Lieutenant,2017,"Drama,History,War",6.4,64,18+
+tt4943820,Once Is Enough,2020,Documentary,6.8,48,7+
+tt4944352,Heneral Luna,2015,"Action,Biography,History",7.3,63,18+
+tt4947738,Spirit of the Game,2016,Biography,5.3,42,7+
+tt4948040,Emma's Chance,2016,"Drama,Family,Sport",6.1,51,7+
+tt4952376,Brothers,2015,Documentary,7.4,54,13+
+tt4971344,The Sisters Brothers,2018,"Drama,Western",6.9,72,18+
+tt4971408,Await Further Instructions,2018,"Horror,Mystery,Sci-Fi",4.9,56,18+
+tt4971824,Very Big Shot,2015,"Action,Crime,Drama",6.9,53,18+
+tt4972062,Don't Think Twice,2016,"Comedy,Drama",6.7,66,18+
+tt4974684,Kara Bela,2015,"Action,Adventure,Comedy",6.7,52,13+
+tt4975920,The Kid,2019,"Biography,Drama,Western",5.9,62,18+
+tt4978274,Priceless,2016,"Crime,Drama,Romance",6.1,59,13+
+tt4981636,Middle School: The Worst Years of My Life,2016,"Comedy,Family",6.1,62,7+
+tt4986098,The Titan,2018,"Drama,Mystery,Romance",4.8,63,18+
+tt4986134,Rebel in the Rye,2017,"Biography,Drama,Romance",6.7,66,13+
+tt4995776,The Red Sea Diving Resort,2019,"Drama,History,Thriller",6.6,75,18+
+tt5000698,Marriage of Lies,2016,"Drama,Mystery,Thriller",5.0,45,7+
+tt5001754,Braven,2018,"Action,Thriller",5.9,82,18+
+tt5007774,A Box of Faith,2015,Family,6.2,33,all
+tt5013782,Change in the Air,2018,Drama,5.8,47,7+
+tt5022702,Hush,2016,"Horror,Thriller",6.6,73,18+
+tt5028340,Mary Poppins Returns,2018,"Adventure,Comedy,Family",6.6,73,7+
+tt5034122,Cruise,2018,"Drama,Romance",5.4,52,18+
+tt5034266,Our Souls at Night,2017,"Drama,Romance",6.9,65,16+
+tt5036924,The CEO,2016,"Drama,Mystery,Thriller",5.7,37,13+
+tt5037840,Drunk Parents,2019,Comedy,4.0,54,18+
+tt5061570,Hostile Border,2015,"Drama,Thriller",5.5,46,18+
+tt5071886,Kabali,2016,"Action,Crime,Drama",6.1,65,18+
+tt5074352,Dangal,2016,"Action,Biography,Drama",8.3,97,7+
+tt5076150,Doubting Thomas,2018,Drama,5.1,45,18+
+tt5085924,Wildling,2018,"Drama,Fantasy,Horror",5.5,62,18+
+tt5093026,Papillon,2017,"Adventure,Biography,Crime",7.2,75,18+
+tt5094192,Goyo: The Boy General,2018,"Action,Biography,History",6.5,51,16+
+tt5095030,Ant-Man and the Wasp,2018,"Action,Adventure,Comedy",7.0,81,13+
+tt5096470,Love Wedding Repeat,2020,"Comedy,Romance",5.6,52,18+
+tt5104604,Isle of Dogs,2018,"Adventure,Animation,Comedy",7.8,80,13+
+tt5108476,Befikre,2016,"Comedy,Drama,Romance",4.2,50,13+
+tt5112692,Secrets,2017,Drama,5.6,42,13+
+tt5114154,The Keeping Hours,2017,"Drama,Fantasy,Horror",6.4,58,13+
+tt5115546,Ghost Team,2016,"Comedy,Thriller",4.9,50,13+
+tt5116302,Togo,2019,"Adventure,Biography,Drama",7.9,76,7+
+tt5117484,Frat Star,2017,"Comedy,Drama",3.5,41,18+
+tt5122374,Tini: The New Life of Violetta,2016,"Adventure,Family,Music",5.4,50,all
+tt5126540,Black Box,2020,"Sci-Fi,Thriller",3.1,61,16+
+tt5128826,The Alchemist Cookbook,2016,"Comedy,Drama,Horror",5.2,50,18+
+tt5140248,The Beginning of Life,2016,"Documentary,Family",7.4,52,all
+tt5143704,Green is Gold,2016,"Crime,Drama",6.0,53,18+
+tt5153236,Hampstead,2017,"Comedy,Drama,Romance",6.1,59,13+
+tt5155780,The Discovery,2017,"Drama,Romance,Sci-Fi",6.2,72,18+
+tt5156746,Force 2,2016,"Action,Thriller",6.2,55,7+
+tt5163286,Jeremiah Tower: The Last Magnificent,2016,"Biography,Documentary",6.6,50,18+
+tt5168832,After Porn Ends 2,2017,Documentary,5.5,66,18+
+tt5176486,Grandma's House,2016,Drama,6.0,43,7+
+tt5176580,Wild Nights with Emily,2018,"Comedy,History",6.3,54,13+
+tt5179598,Billionaire Boys Club,2018,"Biography,Drama,Thriller",5.6,62,18+
+tt5186714,The Salesman,2016,"Drama,Thriller",7.7,72,13+
+tt5197544,Baar Baar Dekho,2016,"Drama,Romance,Sci-Fi",5.4,58,7+
+tt5205210,Strange Weather,2016,Drama,6.0,51,18+
+tt5206260,The Willoughbys,2020,"Adventure,Animation,Comedy",6.4,80,7+
+tt5207116,X: Past Is Present,2015,"Drama,Mystery,Romance",5.2,43,13+
+tt5207846,The First Secret City,2015,Documentary,7.4,43,7+
+tt5208216,Wonderstruck,2017,"Adventure,Drama,Mystery",6.2,63,7+
+tt5208252,Operation Finale,2018,"Biography,Drama,History",6.6,69,13+
+tt5215952,The Wailing,2016,"Drama,Horror",7.4,75,18+
+tt5222768,White Fang,2018,"Adventure,Animation,Drama",6.9,76,7+
+tt5224012,Kiss and Cry,2017,"Biography,Drama,Music",6.7,44,13+
+tt5246700,How It Ends,2018,"Action,Drama,Horror",5.1,60,18+
+tt5246902,Blood Brother,2018,"Action,Crime,Drama",4.5,50,18+
+tt5247022,Paterson,2016,"Comedy,Drama,Romance",7.3,73,18+
+tt5254610,Final Score,2018,"Action,Adventure,Drama",5.8,61,18+
+tt5259822,Tesla,2020,"Biography,Drama",5.1,59,13+
+tt5260026,The Wedding Party,2016,"Comedy,Romance",5.0,54,13+
+tt5266668,Rogue Warfare,2019,"Action,War",3.0,44,18+
+tt5267472,Step Sisters,2018,Comedy,5.5,57,13+
+tt5268348,Generation Wealth,2018,Documentary,6.7,57,18+
+tt5275828,Lo and Behold: Reveries of the Connected World,2016,Documentary,7.0,64,13+
+tt5275866,Norman Lear: Just Another Version of You,2016,"Biography,Documentary,History",7.3,49,13+
+tt5278462,Author: The JT LeRoy Story,2016,"Biography,Documentary",7.1,68,18+
+tt5278506,Tickled,2016,"Crime,Documentary,Mystery",7.4,70,18+
+tt5281700,Heartbeats,2017,"Comedy,Drama,Music",5.4,47,7+
+tt5294518,Eli,2019,"Drama,Horror,Mystery",5.8,64,18+
+tt5297578,Zindagi Kitni Haseen Hay,2016,"Adventure,Drama,Romance",5.6,49,all
+tt5304992,Set It Up,2018,"Comedy,Romance",6.5,69,16+
+tt5305246,93 Days,2016,Drama,6.1,53,7+
+tt5316540,Close,2019,"Action,Drama,Thriller",5.7,65,18+
+tt5317732,The Little Prince,2015,Documentary,8.0,74,7+
+tt5323662,A Silent Voice: The Movie,2016,"Animation,Drama",8.2,78,13+
+tt5325684,Hate Story IV,2018,"Crime,Drama,Thriller",3.4,41,18+
+tt5330986,Wild Prairie Rose,2016,"Drama,Family",6.8,40,13+
+tt5335314,One Step Behind the Seraphim,2017,Drama,8.1,63,13+
+tt5339586,Mike Epps: Don't Take It Personal,2015,Comedy,4.5,40,18+
+tt5340882,Zoombies,2016,"Action,Adventure,Comedy",3.4,48,16+
+tt5344794,Sniper: Special Ops,2016,"Action,Thriller,War",3.0,49,18+
+tt5360996,Mary Magdalene,2018,"Biography,Drama,History",5.9,63,18+
+tt5371168,The Extraordinary Journey of the Fakir,2018,"Adventure,Comedy,Drama",6.8,60,all
+tt5377564,U Turn,2016,"Crime,Horror,Mystery",7.4,59,18+
+tt5397194,Anon,2018,"Crime,Mystery,Sci-Fi",6.1,69,18+
+tt5427194,The Miracle Season,2018,"Drama,Sport",6.5,60,7+
+tt5439796,Logan Lucky,2017,"Action,Comedy,Crime",7.0,77,13+
+tt5442456,24 Hours to Live,2017,"Action,Sci-Fi,Thriller",5.8,64,18+
+tt5442884,Hope Dances,2017,Family,5.7,39,7+
+tt5451244,The Motive,2017,"Comedy,Crime,Drama",6.5,63,18+
+tt5451640,Secrets of Deception,2017,"Action,Crime,Drama",4.3,44,18+
+tt5456546,Judwaa 2,2017,"Action,Comedy,Romance",3.7,51,16+
+tt5457484,Cabin 28,2017,Horror,3.3,45,18+
+tt5460548,Corporate,2017,"Drama,Thriller",6.5,48,13+
+tt5462602,The Big Sick,2017,"Comedy,Drama,Romance",7.5,79,18+
+tt5467554,Daphne,2017,"Comedy,Drama",6.0,62,18+
+tt5472374,Meri Pyaari Bindu,2017,"Comedy,Drama,Romance",6.1,59,7+
+tt5474042,Half Girlfriend,2017,"Drama,Romance",4.7,55,7+
+tt5474644,My Little Pony: Equestria Girls - Legend of Everfree,2016,"Animation,Comedy,Family",6.5,55,all
+tt5478478,Hostiles,2017,"Drama,Western",7.2,76,18+
+tt5501104,Border,2018,"Crime,Drama,Fantasy",7.0,68,18+
+tt5510970,Bill Frisell: A Portrait,2017,Documentary,7.3,66,18+
+tt5512872,Be Somebody,2016,"Comedy,Drama,Romance",5.6,54,7+
+tt5519340,Bright,2017,"Action,Fantasy,Thriller",6.3,76,18+
+tt5519566,The First Monday in May,2016,Documentary,7.1,56,13+
+tt5521550,Dirty 30,2016,Comedy,5.5,55,13+
+tt5523010,The Nutcracker and the Four Realms,2018,"Adventure,Family,Fantasy",5.6,65,7+
+tt5524630,The Brave,2019,"Action,Crime,Thriller",5.2,49,18+
+tt5536610,Private Life,2018,"Comedy,Drama",7.2,67,18+
+tt5539054,You Get Me,2017,"Crime,Drama,Mystery",4.7,52,18+
+tt5541002,Pachamama,2018,"Adventure,Animation,Family",6.8,57,7+
+tt5541240,To the Bone,2017,Drama,6.7,69,18+
+tt5556054,Four Kids and It,2020,"Family,Fantasy",5.1,52,7+
+tt5565254,Wetlands,2017,"Crime,Drama,Thriller",4.4,45,18+
+tt5566790,A Futile and Stupid Gesture,2018,"Biography,Comedy",6.7,75,18+
+tt5577494,Clemency,2019,Drama,6.5,60,18+
+tt5579356,Dogged,2017,Horror,3.4,37,18+
+tt5579982,Apple of My Eye,2017,"Drama,Family",5.6,46,7+
+tt5580390,The Shape of Water,2017,"Drama,Fantasy,Romance",7.3,82,18+
+tt5580392,Amateur,2018,"Drama,Sport",5.9,66,18+
+tt5580536,Arsenal,2017,"Action,Crime,Thriller",4.0,53,18+
+tt5588416,2Eleven,2015,Action,5.6,41,18+
+tt5592248,The Beguiled,2017,"Drama,History,Thriller",6.3,70,18+
+tt5595168,Kingsglaive: Final Fantasy XV,2016,"Action,Adventure,Animation",6.7,67,13+
+tt5598110,In the Shadow of Iris,2016,"Drama,Thriller",6.1,52,18+
+tt5598216,Team Foxcatcher,2016,"Biography,Crime,Documentary",7.2,85,16+
+tt5598292,Polaroid,2019,"Drama,Horror,Mystery",5.2,60,13+
+tt5610626,Dragonheart: Battle for the Heartfire,2017,"Action,Adventure,Drama",5.3,53,13+
+tt5616176,2 Hearts,2020,"Drama,Romance",6.3,62,13+
+tt5616294,Spinning Man,2018,"Drama,Mystery,Thriller",5.7,61,18+
+tt5622412,Black Water,2018,"Action,Drama,Thriller",4.7,54,18+
+tt5629084,Superpower Dogs,2019,Documentary,7.6,56,all
+tt5629524,Beyond the Edge,2018,"Action,Adventure,Fantasy",4.5,53,13+
+tt5638642,The Ritual,2017,"Horror,Mystery,Thriller",6.4,83,18+
+tt5639898,Social Animals,2018,Comedy,5.3,53,18+
+tt5640450,ARQ,2016,"Action,Sci-Fi,Thriller",6.3,74,18+
+tt5649144,The Florida Project,2017,Drama,7.6,77,18+
+tt5655222,The Hero,2017,"Drama,Romance",6.5,63,18+
+tt5666304,The Little Hours,2017,"Comedy,Romance",5.8,64,18+
+tt5667482,Izzie's Way Home,2016,"Adventure,Animation",1.6,38,all
+tt5673714,First We Take Brooklyn,2018,"Crime,Drama,Thriller",4.1,45,18+
+tt5687040,Ismael's Ghosts,2017,"Drama,Mystery,Romance",5.5,53,18+
+tt5687270,The Corrupted,2019,"Crime,Drama,Thriller",5.7,53,18+
+tt5688868,Primal Rage,2018,"Action,Adventure,Horror",5.0,53,18+
+tt5688932,Sorry to Bother You,2018,"Comedy,Drama,Fantasy",6.9,73,18+
+tt5688996,Alex Strangelove,2018,"Comedy,Drama,Romance",6.3,64,18+
+tt5689068,Killing Gunther,2017,"Action,Comedy,Thriller",4.8,57,18+
+tt5692390,Status Update,2018,"Comedy,Fantasy,Romance",5.8,60,13+
+tt5696326,Running for Grace,2018,"Family,Romance",6.1,54,16+
+tt5698568,1898: Our Last Men in the Philippines,2016,"Drama,History,War",6.5,56,13+
+tt5700672,Train to Busan,2016,"Action,Horror,Thriller",7.6,81,16+
+tt5702446,God Bless the Broken Road,2018,"Drama,Family,Romance",5.8,50,7+
+tt5704748,Becoming Cary Grant,2017,"Biography,Documentary",6.6,70,7+
+tt5704912,A Cowgirl's Story,2017,"Drama,Family",5.6,51,7+
+tt5710042,Mercy,2016,"Drama,Mystery,Thriller",4.2,37,all
+tt5710514,I Don't Feel at Home in This World Anymore,2017,"Comedy,Crime,Drama",6.9,70,18+
+tt5714320,Let's Dance,2019,"Drama,Music,Romance",6.4,51,18+
+tt5715066,Mortal,2020,"Action,Adventure,Drama",5.9,64,18+
+tt5715874,The Killing of a Sacred Deer,2017,"Drama,Horror,Mystery",7.0,76,18+
+tt5717492,Small Crimes,2017,"Crime,Drama,Thriller",5.8,58,18+
+tt5719700,Home Again,2017,"Comedy,Drama,Romance",5.8,67,13+
+tt5723286,Wheelman,2017,"Action,Thriller",6.4,79,18+
+tt5723774,Hotel Coolgardie,2016,Documentary,6.8,57,18+
+tt5727208,Uncut Gems,2019,"Crime,Drama,Thriller",7.4,80,18+
+tt5737862,Landline,2017,"Comedy,Drama",6.4,58,18+
+tt5740806,Coin Heist,2017,"Crime,Drama,Romance",4.8,48,7+
+tt5741304,Jailbreak,2017,"Action,Comedy",5.4,58,18+
+tt5742374,You Were Never Really Here,2017,"Crime,Drama,Thriller",6.7,74,18+
+tt5743858,25 Kille,2016,"Comedy,Drama",5.7,41,7+
+tt5755912,Barcelona: A Love Untold,2016,"Drama,Romance",6.6,52,7+
+tt5764024,OK Jaanu,2017,"Drama,Romance",5.4,54,7+
+tt5770430,Ozzy,2016,"Adventure,Animation,Comedy",5.2,58,all
+tt5770620,The Lovers,2017,"Comedy,Drama,Romance",6.1,54,18+
+tt5773986,Studio 54,2018,"Documentary,History,Music",7.0,61,18+
+tt5774062,Spontaneous,2020,"Comedy,Drama,Horror",6.5,66,18+
+tt5783956,When We First Met,2018,"Comedy,Fantasy,Romance",6.4,75,16+
+tt5785116,Begum Jaan,2017,"Action,Drama,History",5.6,50,18+
+tt5788462,Rocco,2016,Documentary,5.7,54,18+
+tt5789976,King of Thieves,2018,"Biography,Crime,Drama",5.6,61,18+
+tt5792656,Running with the Devil,2019,"Crime,Drama,Thriller",5.4,59,18+
+tt5795086,Gemini,2017,"Crime,Drama,Mystery",5.4,55,18+
+tt5804412,Landline,2017,Comedy,6.3,58,18+
+tt5809020,Handsome: A Netflix Mystery Movie,2017,"Comedy,Mystery",5.2,45,16+
+tt5813366,Bleeding Steel,2017,"Action,Sci-Fi,Thriller",5.2,61,18+
+tt5814408,A Witches' Ball,2017,"Adventure,Comedy,Family",5.0,40,7+
+tt5816374,Band Aid,2017,"Comedy,Drama,Music",6.6,63,18+
+tt5817548,Ice Princess Lily,2018,"Adventure,Animation,Comedy",5.3,43,7+
+tt5825380,Wonder Wheel,2017,"Drama,Romance",6.2,65,13+
+tt5826432,Burning Sands,2017,Drama,6.0,68,18+
+tt5827360,Catching Feelings,2017,"Comedy,Drama,Romance",5.7,45,18+
+tt5827790,Unknown Origins,2020,"Action,Crime,Drama",6.1,59,18+
+tt5829032,Camp Cold Brook,2018,Horror,4.4,48,18+
+tt5829040,Fun Mom Dinner,2017,Comedy,5.3,57,18+
+tt5831402,The Feels,2017,"Comedy,Romance",5.1,57,18+
+tt5834760,Look Away,2018,"Drama,Fantasy,Horror",5.8,64,18+
+tt5834854,Mary,2019,"Horror,Mystery",4.5,53,18+
+tt5843876,Chemical Hearts,2020,"Drama,Romance",6.3,64,18+
+tt5848272,Ralph Breaks the Internet,2018,"Adventure,Animation,Comedy",7.0,79,7+
+tt5848416,Walk. Ride. Rodeo.,2019,"Biography,Drama,Sport",6.5,52,7+
+tt5851786,Gnome Alone,2017,"Adventure,Animation,Comedy",5.6,51,7+
+tt5862166,The Poison Rose,2019,"Crime,Mystery,Thriller",4.8,57,18+
+tt5862312,Veronica,2017,"Horror,Mystery",6.2,81,18+
+tt5865326,The Laundromat,2019,"Comedy,Crime,Drama",6.3,71,18+
+tt5870322,Rock My Heart,2017,Drama,6.5,49,7+
+tt5881528,Damsel,2018,"Comedy,Drama,Western",5.5,57,18+
+tt5884230,Brad's Status,2017,"Comedy,Drama,Music",6.5,65,18+
+tt5884234,First Kill,2017,"Action,Thriller",5.0,58,18+
+tt5884960,Home,2015,Documentary,8.4,74,7+
+tt5886440,Marrowbone,2017,"Drama,Horror,Mystery",6.7,68,18+
+tt5886842,"Remembering Leonard: His Life, Legacy and Battle with COPD",2017,Documentary,7.7,44,all
+tt5889204,Pokémon the Movie: Volcanion and the Mechanical Marvel,2016,"Action,Adventure,Animation",5.9,54,7+
+tt5891626,Ordinary People,2016,Drama,7.3,56,18+
+tt5893332,Sandy Wexler,2017,"Comedy,Drama,Music",5.3,62,16+
+tt5895028,13th,2016,"Crime,Documentary,History",8.2,76,18+
+tt5895892,The Last Descent,2016,Drama,5.5,53,7+
+tt5902484,Kaatru Veliyidai,2017,Romance,5.8,42,7+
+tt5913798,Wounds,2019,"Drama,Horror,Mystery",4.1,55,18+
+tt5914996,No Game No Life: Zero,2017,"Adventure,Animation,Drama",7.3,64,18+
+tt5929654,Think Like a Dog,2020,"Comedy,Drama,Family",5.2,55,7+
+tt5929754,Wildlife,2018,Drama,6.8,69,13+
+tt5929776,Before the Flood,2016,"Documentary,News",8.2,74,7+
+tt5946128,Dear Zindagi,2016,"Drama,Romance",7.4,66,13+
+tt5946668,4/20 Massacre,2018,"Action,Horror",3.7,47,18+
+tt5952332,Amanda Knox,2016,"Crime,Documentary",6.9,69,18+
+tt5956100,Tiger Zinda Hai,2017,"Action,Adventure,Thriller",5.9,72,7+
+tt5959952,Mission Control: The Unsung Heroes of Apollo,2017,"Documentary,History",7.5,58,7+
+tt5960374,Vox Lux,2018,"Drama,Music",5.9,62,18+
+tt5962210,Ingrid Goes West,2017,"Comedy,Drama,Horror",6.6,70,18+
+tt5968274,The Angel,2018,"Action,Biography,Drama",6.7,75,18+
+tt5969180,I Hate Kids,2019,"Adventure,Comedy",5.1,51,13+
+tt5978822,The Wedding Party,2016,"Comedy,Romance",5.9,54,13+
+tt5985288,Sour Apples,2016,"Drama,History",7.1,57,7+
+tt5985820,A Chaster Marriage,2016,"Comedy,Romance",5.4,46,13+
+tt5989218,Life Itself,2018,"Drama,Romance",6.9,68,18+
+tt5990066,Bad Match,2017,"Crime,Horror,Mystery",5.6,56,18+
+tt5997666,Jab Harry Met Sejal,2017,"Comedy,Drama,Romance",5.1,55,7+
+tt5998744,S Storm,2016,"Action,Crime",5.2,29,13+
+tt5999530,Before We Vanish,2017,"Drama,Sci-Fi",6.2,54,18+
+tt6003368,Diary of a Wimpy Kid: The Long Haul,2017,"Adventure,Comedy,Family",4.3,58,7+
+tt6009140,Wedding Unplanned,2017,"Comedy,Drama",6.1,55,16+
+tt6012380,Ordinary Love,2019,"Drama,Romance",6.6,60,18+
+tt6014472,S.W.A.T.: Under Siege,2017,"Action,Thriller",4.6,53,18+
+tt6016744,The Edge of Democracy,2019,"Documentary,History",7.3,83,16+
+tt6018306,Last Flag Flying,2017,"Comedy,Drama,War",6.9,67,18+
+tt6021694,The Outdoorsman,2017,Comedy,5.4,37,13+
+tt6032076,Polar,2019,"Comedy,Drama",7.1,73,18+
+tt6045466,Madame,2017,"Comedy,Drama,Romance",6.1,59,16+
+tt6048930,Naked,2017,"Comedy,Fantasy,Romance",5.4,57,16+
+tt6053948,Sunday's Illness,2018,Drama,6.9,72,13+
+tt6055082,My Pet Dinosaur,2017,"Action,Adventure,Family",4.1,48,7+
+tt6060156,Toc Toc,2017,Comedy,6.8,62,7+
+tt6061074,First Match,2018,"Drama,Sport",6.4,72,18+
+tt6062774,Monos,2019,"Adventure,Drama,Thriller",6.8,65,18+
+tt6063090,Light of My Life,2019,"Drama,Sci-Fi,Thriller",6.6,65,18+
+tt6067832,Batman & Bill,2017,"Animation,Documentary,Mystery",7.9,61,16+
+tt6091368,Secondhand Hearts,2017,"Drama,Romance",5.3,36,16+
+tt6095472,The Angry Birds Movie 2,2019,"Action,Adventure,Animation",6.4,67,7+
+tt6103292,Lock,2016,Thriller,6.0,40,7+
+tt6105774,The Reliant,2019,Action,3.3,42,13+
+tt6107548,Late Night,2019,"Comedy,Drama",6.5,84,18+
+tt6110504,Becoming Bond,2017,"Biography,Comedy,Documentary",7.5,78,18+
+tt6116568,Making a Killing,2018,"Crime,Drama,Mystery",5.2,37,18+
+tt6116856,The Night Comes for Us,2018,"Action,Crime,Thriller",6.9,87,18+
+tt6119856,Irreplaceable You,2018,"Comedy,Drama,Romance",6.4,66,18+
+tt6141246,The Aeronauts,2019,"Action,Adventure,Drama",6.6,71,13+
+tt6142496,6 Balloons,2018,Drama,5.9,69,18+
+tt6148864,Fang,2018,Horror,2.8,44,18+
+tt6149154,Waiting for the Barbarians,2019,"Drama,History",6.0,60,16+
+tt6155172,Roma,2018,Drama,7.6,94,18+
+tt6155456,Juanita,2019,Drama,6.1,54,18+
+tt6163142,Grace,2018,"Comedy,Drama,Romance",5.7,47,16+
+tt6173902,Hulk: Where Monsters Dwell,2016,"Action,Animation,Fantasy",5.4,51,7+
+tt6176928,Whose Streets?,2017,Documentary,6.0,55,18+
+tt6185286,Saving Capitalism,2017,Documentary,6.8,73,7+
+tt6186696,The Most Assassinated Woman in the World,2018,"Biography,Drama,Mystery",5.4,58,18+
+tt6186910,Imaikkaa Nodigal,2018,"Crime,Drama,Thriller",7.3,57,all
+tt6189022,Angel Has Fallen,2019,"Action,Thriller",6.4,75,18+
+tt6193408,A Shaun the Sheep Movie: Farmageddon,2019,"Adventure,Animation,Comedy",6.8,86,all
+tt6196936,The Kill Team,2019,"Action,Biography,Drama",6.0,61,18+
+tt6197400,Cross: Rise of the Villains,2019,"Action,Fantasy,Sci-Fi",2.0,38,18+
+tt6198246,The Great War,2019,"Drama,War",4.1,47,18+
+tt6199572,Capone,2020,"Biography,Crime,Drama",4.7,56,18+
+tt6200274,Hajwala: The Missing Engine,2016,"Action,Adventure,Crime",2.0,32,13+
+tt6204340,Bullet Head,2017,"Crime,Drama,Thriller",5.4,59,18+
+tt6205872,Assassination Nation,2018,"Comedy,Horror,Thriller",6.0,64,18+
+tt6208096,Modern Prodigal,2019,"Crime,Drama,Mystery",4.8,32,7+
+tt6212478,American Animals,2018,"Biography,Crime,Drama",7.0,72,18+
+tt6212496,Mr. Roosevelt,2017,Comedy,6.2,56,18+
+tt6214928,1922,2017,"Crime,Drama,Horror",6.2,84,18+
+tt6217306,Apostle,2018,"Drama,Fantasy,Horror",6.3,68,18+
+tt6218358,Calibre,2018,"Drama,Thriller",6.8,84,18+
+tt6222118,The Doorman,2020,"Action,Drama,Thriller",4.7,59,18+
+tt6224502,Boarding School,2018,"Horror,Mystery,Thriller",5.9,56,18+
+tt6225520,The Man Who Invented Christmas,2017,"Biography,Comedy,Drama",7.0,65,7+
+tt6228640,The Horse Dancer,2017,"Family,Sport",4.7,40,all
+tt6243140,Ravenous,2017,"Action,Adventure,Drama",5.8,76,18+
+tt6245644,Before All Others,2016,Family,5.1,36,7+
+tt6245710,Black Ballerina,2016,Documentary,7.5,41,all
+tt6246534,Miss Virginia,2019,Drama,7.2,51,16+
+tt6250650,Halloween Party,2019,Horror,5.1,48,16+
+tt6261048,"Love, Kennedy",2017,Drama,6.8,49,7+
+tt6263642,Generation Iron 2,2017,Documentary,6.1,52,13+
+tt6265828,A Ghost Story,2017,"Drama,Fantasy,Mystery",6.8,74,18+
+tt6266538,Vice,2018,"Biography,Comedy,Drama",7.2,76,18+
+tt6268734,Holly Star,2018,Comedy,5.2,44,7+
+tt6269368,The Clovehitch Killer,2018,"Crime,Drama,Horror",6.5,70,13+
+tt6269658,Monster Island,2017,"Adventure,Animation,Comedy",4.8,43,7+
+tt6272828,Mubarakan,2017,"Comedy,Romance",5.6,57,13+
+tt6280328,Raju Gari Gadhi 2,2017,"Comedy,Horror,Thriller",5.3,44,18+
+tt6288124,"Don't Worry, He Won't Get Far on Foot",2018,"Biography,Comedy,Drama",6.8,68,18+
+tt6288694,Acts of Vengeance,2017,"Action,Drama,Thriller",5.7,61,18+
+tt6290418,"To Each, Her Own",2018,"Comedy,Drama",5.4,45,18+
+tt6290736,Wheeler,2017,Drama,6.0,47,7+
+tt6292852,I Am Mother,2019,"Drama,Mystery,Sci-Fi",6.7,89,13+
+tt6299040,The Ghazi Attack,2017,"Action,Drama,Thriller",7.5,77,7+
+tt6303866,Beach Rats,2017,Drama,6.4,63,18+
+tt6306064,Adrift,2018,"Action,Adventure,Biography",6.6,70,13+
+tt6317962,Fireworks,2017,"Animation,Drama,Fantasy",5.6,55,13+
+tt6324278,Abominable,2019,"Adventure,Animation,Comedy",7.0,73,7+
+tt6333052,Casting JonBenet,2017,"Crime,Documentary,Drama",6.1,59,16+
+tt6333060,Icarus,2017,"Documentary,Sport",7.9,75,18+
+tt6333064,Nobody Speak: Trials of the Free Press,2017,Documentary,6.4,69,16+
+tt6333072,Joshua: Teenager vs. Superpower,2017,Documentary,7.3,75,16+
+tt6333086,Menashe,2017,Drama,6.6,55,7+
+tt6333088,Legion of Brothers,2017,"Documentary,War",6.1,55,16+
+tt6342110,Spivak,2018,Comedy,5.7,48,18+
+tt6346162,Newsies: The Broadway Musical,2017,Musical,8.2,69,7+
+tt6348138,Missing Link,2019,"Adventure,Animation,Comedy",6.7,68,7+
+tt6352548,Poster Boys,2017,Comedy,5.4,44,13+
+tt6357074,Pup Star: Better 2Gether,2017,Family,4.5,41,all
+tt6378710,Villains,2019,"Comedy,Horror,Thriller",6.3,62,18+
+tt6379314,Let It Fall: Los Angeles 1982-1992,2017,"Documentary,History",7.8,56,18+
+tt6390668,Invisible Life,2019,Drama,7.7,85,18+
+tt6394270,Bombshell,2019,"Biography,Drama",6.8,76,18+
+tt6412452,The Ballad of Buster Scruggs,2018,"Comedy,Drama,Musical",7.2,92,16+
+tt6423886,Happy Anniversary,2018,Comedy,5.7,55,18+
+tt6428150,High Strung Free Dance,2018,"Music,Romance",6.8,69,7+
+tt6433832,The Tree of Blood,2018,Drama,6.4,64,18+
+tt6436726,7500,2019,"Drama,Thriller",6.3,75,18+
+tt6443294,Blaze,2018,"Biography,Drama,Music",6.6,60,18+
+tt6444140,Time Share,2018,"Drama,Mystery,Thriller",5.9,71,18+
+tt6445414,The Coldest Game,2019,"History,Sport,Thriller",6.2,60,18+
+tt6450804,Terminator: Dark Fate,2019,"Action,Adventure,Sci-Fi",6.2,76,18+
+tt6452332,Lu Over the Wall,2017,"Adventure,Animation,Comedy",6.8,58,7+
+tt6452574,Sanju,2018,"Biography,Comedy,Drama",7.6,74,18+
+tt6456222,Nostalgia,2018,Drama,5.6,51,18+
+tt6456326,Monsters of Man,2020,"Action,Sci-Fi,Thriller",5.4,60,18+
+tt6460528,The Blackout,2019,Drama,4.6,66,18+
+tt6463468,Beast,2018,"Adventure,Drama",5.8,65,18+
+tt6469960,An Imperfect Murder,2017,"Drama,Mystery,Thriller",2.9,38,18+
+tt6472116,Bayonet,2018,"Drama,Sport",5.6,59,18+
+tt6473066,Clouds,2020,"Biography,Drama,Music",7.5,60,13+
+tt6494358,Clive Davis: The Soundtrack of Our Lives,2017,"Documentary,Music",7.5,50,13+
+tt6494418,Siberia,2018,"Crime,Drama,Romance",4.3,60,16+
+tt6506146,The 3rd Eye,2017,"Drama,Fantasy,Horror",5.1,46,18+
+tt6508228,Ghosts of War,2020,"Fantasy,Horror,Thriller",5.6,60,18+
+tt6510332,McQueen,2018,"Biography,Documentary",7.7,66,18+
+tt6511932,The Beach Bum,2019,"Comedy,Drama",5.5,62,18+
+tt6512300,Death of a Child,2017,Documentary,6.4,44,13+
+tt6513120,Fighting with My Family,2019,"Biography,Comedy,Drama",7.0,77,13+
+tt6513656,Escape Plan 2: Hades,2018,"Action,Crime,Mystery",3.9,59,18+
+tt6516314,Piercing,2018,"Horror,Mystery,Thriller",5.5,58,18+
+tt6516590,Cold Zone,2017,"Action,Sci-Fi",3.6,43,13+
+tt6518270,An Evening with Beverly Luff Linn,2018,"Comedy,Crime",5.8,59,18+
+tt6521876,Jay and Silent Bob Reboot,2019,"Action,Adventure,Comedy",5.6,65,18+
+tt6523720,The Quake,2018,"Action,Drama,Thriller",6.2,65,13+
+tt6527456,Asphalt Burning,2020,"Action,Comedy",5.2,50,16+
+tt6527586,Close Enemies,2018,"Drama,Thriller",6.4,54,18+
+tt6543652,Cold War,2018,"Drama,Music,Romance",7.5,72,18+
+tt6555772,"Love, Surreal and Odd",2017,"Comedy,Romance",5.6,47,all
+tt6559576,Selfie Dad,2020,"Comedy,Family",4.6,40,7+
+tt6560164,Sweetheart,2019,"Adventure,Horror,Sci-Fi",5.8,62,13+
+tt6566830,Most Likely to Murder,2018,"Comedy,Mystery,Romance",5.2,50,18+
+tt6573444,Human Flow,2017,Documentary,7.2,55,13+
+tt6574146,Blame!,2017,"Action,Animation,Drama",6.6,62,13+
+tt6580564,102 Not Out,2018,"Comedy,Drama",7.4,75,7+
+tt6587640,Trolls World Tour,2020,"Adventure,Animation,Comedy",6.1,69,7+
+tt6588966,Hichki,2018,"Comedy,Drama",7.5,59,7+
+tt6593054,Drive,2019,"Action,Crime,Thriller",3.2,50,13+
+tt6595896,Pokémon the Movie: I Choose You!,2017,"Action,Adventure,Animation",6.3,62,7+
+tt6598238,Life in a Year,2020,"Drama,Romance",6.3,68,13+
+tt6598626,Take Me,2017,"Comedy,Crime,Mystery",6.1,57,18+
+tt6599184,The Delegation,2018,Drama,6.6,45,13+
+tt6599742,Sara's Notebook,2018,"Adventure,Drama,Mystery",5.9,52,18+
+tt6608138,I See You,2017,"Comedy,Drama,Romance",7.5,55,7+
+tt6612946,Changeland,2019,"Comedy,Drama",5.7,55,18+
+tt6643972,Triple Threat,2019,"Action,Thriller",5.6,62,18+
+tt6679412,Forgive Us Our Debts,2018,Drama,6.2,46,18+
+tt6679794,Outlaw King,2018,"Action,Biography,Drama",6.9,72,18+
+tt6685596,Maya the Bee: The Honey Games,2018,"Adventure,Animation,Comedy",5.5,50,all
+tt6688136,Expedition Happiness,2017,Documentary,5.9,50,all
+tt6692354,Ittefaq,2017,"Mystery,Thriller",7.2,80,7+
+tt6704776,The Photographer of Mauthausen,2018,"Biography,Drama,History",6.8,76,18+
+tt6704898,Elisa & Marcela,2019,"Biography,Drama,Romance",6.7,55,18+
+tt6708116,Bad Seeds,2018,Comedy,7.2,62,18+
+tt6714534,Get Me Roger Stone,2017,"Biography,Documentary",7.3,81,16+
+tt6727296,Bhaagamathie,2018,"Horror,Thriller",6.9,52,all
+tt6736198,Ready to Mingle,2019,Comedy,5.9,57,18+
+tt6742252,The Guilty,2018,"Crime,Drama,Thriller",7.5,73,18+
+tt6744044,Candy Jar,2018,"Comedy,Drama,Romance",5.8,57,13+
+tt6749318,Speed Kills,2018,"Action,Crime,Drama",4.4,50,18+
+tt6751668,Parasite,2019,"Drama,Thriller",8.5,88,18+
+tt6752992,Happy as Lazzaro,2018,"Drama,Fantasy,Mystery",7.5,85,13+
+tt6759506,King Lear,2018,"Action,Adventure,Drama",6.6,75,16+
+tt6769280,Time Freak,2018,"Comedy,Drama,Romance",5.8,61,13+
+tt6769508,Steel Rain,2017,"Action,Drama,Thriller",7.1,61,18+
+tt6772802,Hillbilly Elegy,2020,"Biography,Drama",6.7,72,18+
+tt6772804,Escape Plan: The Extractors,2019,"Action,Crime,Thriller",4.4,59,18+
+tt6774588,Curtiz,2018,"Biography,Drama,History",6.1,58,18+
+tt6776106,And Breathe Normally,2018,Drama,7.0,76,16+
+tt6788942,Bad Genius,2017,"Comedy,Crime,Drama",7.6,68,13+
+tt6791096,I Feel Pretty,2018,"Comedy,Romance",5.7,67,13+
+tt6792282,A Twelve-Year Night,2018,"Adventure,Biography,Crime",7.5,83,18+
+tt6792666,Gemini,2017,Drama,5.7,55,18+
+tt6794450,Dumb: The Story of Big Brother Magazine,2017,Documentary,7.4,74,18+
+tt6805862,The Coming Convergence,2017,"Documentary,Drama,War",6.0,40,18+
+tt6807324,Doe,2018,Thriller,5.6,46,18+
+tt6811018,The Kid Who Would Be King,2019,"Action,Adventure,Family",6.1,64,7+
+tt6820324,Timmy Failure: Mistakes Were Made,2020,"Adventure,Comedy,Drama",6.0,73,7+
+tt6821012,The Week Of,2018,Comedy,5.3,60,13+
+tt6829180,Welcome Home,2018,"Crime,Drama,Horror",5.3,61,18+
+tt6833470,The Swing of Things,2020,Comedy,3.0,44,18+
+tt6838918,Vault,2019,"Action,Crime,Drama",5.5,56,18+
+tt6842770,Wild Mountain Thyme,2020,"Comedy,Drama,Romance",5.8,61,13+
+tt6843446,Undercover Brother 2,2019,Comedy,3.4,43,18+
+tt6844138,Coven,2020,Horror,2.8,58,18+
+tt6850820,Peppermint,2018,"Action,Thriller",6.5,74,18+
+tt6851966,Nigerian Prince,2018,"Crime,Drama,Thriller",5.9,55,18+
+tt6852872,Elizabeth Harvest,2018,"Horror,Sci-Fi,Thriller",5.8,62,18+
+tt6854672,Battle,2018,"Drama,Romance",5.9,57,18+
+tt6859352,Support the Girls,2018,"Comedy,Drama",6.4,62,18+
+tt6869538,Detective Dee: The Four Heavenly Kings,2018,"Action,Adventure,Drama",6.3,55,18+
+tt6882604,Archive,2020,"Drama,Mystery,Sci-Fi",6.4,68,18+
+tt6886574,Useless,2020,"Drama,Family",5.5,43,7+
+tt6892462,The World Is Yours,2018,"Comedy,Crime",6.3,58,18+
+tt6893836,They'll Love Me When I'm Dead,2018,"Biography,Documentary",7.4,81,18+
+tt6900448,Mirai,2018,"Adventure,Animation,Drama",7.0,67,7+
+tt6903636,Grace Jones: Bloodlight and Bami,2017,"Biography,Documentary,Music",6.2,51,7+
+tt6908274,Mirage,2018,"Drama,Fantasy,Mystery",7.4,74,18+
+tt6910020,Nothing to Lose,2018,"Biography,Drama",2.4,55,7+
+tt6910734,I Need You to Kill,2017,Documentary,7.2,43,18+
+tt6916348,The Warrior Queen of Jhansi,2019,"Adventure,Drama,Fantasy",5.0,46,18+
+tt6920356,The Souvenir,2019,"Drama,Romance",6.4,66,18+
+tt6936350,Born Racer,2018,"Action,Documentary,Drama",6.2,45,18+
+tt6937368,The Lift Boy,2019,"Comedy,Drama",7.2,54,18+
+tt6937724,Eye for an Eye,2019,"Action,Thriller",3.4,76,18+
+tt6938828,At Eternity's Gate,2018,"Biography,Drama,History",6.9,69,13+
+tt6952960,The Kindergarten Teacher,2018,"Drama,Thriller",6.7,80,18+
+tt6977240,Starship Troopers: Traitor of Mars,2017,"Action,Animation,Fantasy",5.5,59,18+
+tt7002100,Coco,2017,Horror,7.3,87,7+
+tt7019942,Super Deluxe,2019,"Comedy,Crime,Drama",8.2,87,18+
+tt7025388,Abigail,2019,"Action,Adventure,Family",4.8,56,7+
+tt7029854,The Mansion,2017,"Comedy,Horror",4.6,50,13+
+tt7043012,Velvet Buzzsaw,2019,"Horror,Mystery,Thriller",5.7,71,18+
+tt7043534,General Commander,2019,"Action,Crime,Thriller",3.1,46,18+
+tt7044076,The Cleaning Lady,2018,"Horror,Thriller",5.5,55,18+
+tt7052494,Trading Paint,2019,"Action,Drama,Sport",4.5,50,18+
+tt7057496,Forgotten,2017,"Crime,Mystery,Thriller",7.4,70,18+
+tt7058080,Angel of Mine,2019,"Drama,Mystery,Thriller",6.4,63,18+
+tt7073710,What Keeps You Alive,2018,"Horror,Thriller",5.7,60,18+
+tt7104578,Going for Gold,2018,"Drama,Family,Sport",4.8,46,all
+tt7125860,If Beale Street Could Talk,2018,"Drama,Romance",7.1,71,18+
+tt7133686,Next Gen,2018,"Action,Adventure,Animation",6.6,80,7+
+tt7134096,The Rhythm Section,2020,"Action,Drama,Mystery",5.4,64,18+
+tt7137380,Destroyer,2018,"Action,Crime,Drama",6.2,66,18+
+tt7139936,A Rainy Day in New York,2019,"Comedy,Romance",6.4,68,13+
+tt7146812,Onward,2020,"Adventure,Animation,Comedy",7.4,80,7+
+tt7149730,The Silencing,2020,"Action,Crime,Mystery",6.3,66,18+
+tt7149916,Edge of Fear,2018,Thriller,4.5,43,18+
+tt7153434,Science Fair,2018,Documentary,7.5,52,7+
+tt7153766,Unsane,2018,"Drama,Horror,Mystery",6.4,70,18+
+tt7158430,Hearts Beat Loud,2018,"Comedy,Drama,Music",6.9,65,13+
+tt7170950,Like Father,2018,Drama,6.1,68,18+
+tt7174660,She's in Portland,2020,"Comedy,Drama",5.8,48,18+
+tt7177642,Khido Khundi,2018,"Drama,Sport",5.1,41,7+
+tt7178226,The Cave,2019,"Documentary,War",7.5,61,13+
+tt7183578,Project Gutenberg,2018,"Action,Crime,Mystery",6.8,59,18+
+tt7184124,Night Comes On,2018,Drama,6.7,52,18+
+tt7186092,"Nico, 1988",2017,"Biography,Drama,Music",6.7,55,18+
+tt7200946,"Oh, Ramona!",2019,"Comedy,Romance",4.8,50,18+
+tt7205316,MILF,2018,"Comedy,Romance",4.9,52,18+
+tt7207238,Jane,2017,"Biography,Documentary",7.8,64,7+
+tt7212754,Ludo,2020,"Action,Comedy,Drama",7.6,68,13+
+tt7218518,Pad Man,2018,"Comedy,Drama",7.8,87,13+
+tt7227742,Plug Love,2017,Drama,6.3,51,18+
+tt7248248,Lucky Day,2019,"Action,Comedy,Crime",5.1,53,18+
+tt7250056,Non-Fiction,2018,"Comedy,Drama,Romance",6.4,57,18+
+tt7256866,Father of the Year,2018,Comedy,5.2,55,16+
+tt7262384,The True Adventures of Wolfboy,2019,"Adventure,Crime,Drama",5.7,52,13+
+tt7284204,Summer '03,2018,"Comedy,Drama,Romance",5.5,56,16+
+tt7286916,The Dawn Wall,2017,"Adventure,Biography,Documentary",8.1,72,16+
+tt7291268,Gaga: Five Foot Two,2017,"Documentary,Music",7.0,79,18+
+tt7294534,Arjun Reddy,2017,"Drama,Romance",7.9,65,18+
+tt7295450,Between Worlds,2018,"Fantasy,Mystery,Thriller",3.9,56,18+
+tt7296862,SPF-18,2017,"Drama,Romance,Sport",3.2,39,13+
+tt7297156,Transmilitary,2018,Documentary,6.5,52,16+
+tt7302054,Supervized,2019,Comedy,5.1,48,18+
+tt7304802,The Legacy of the Bones,2019,"Crime,Mystery,Thriller",6.4,60,18+
+tt7304824,Offering to the Storm,2020,"Crime,Mystery,Thriller",6.2,58,18+
+tt7315484,The Silence,2019,"Drama,Horror,Sci-Fi",5.4,65,13+
+tt7319822,Saving Zoë,2019,"Crime,Drama,Mystery",5.4,53,18+
+tt7322850,Raja the Great,2017,Action,6.3,52,all
+tt7322864,Pup Star: World Tour,2018,"Comedy,Family,Musical",4.1,38,all
+tt7329656,47 Meters Down: Uncaged,2019,"Adventure,Drama,Horror",5.0,63,13+
+tt7329858,Pari,2018,"Fantasy,Horror,Mystery",6.6,70,13+
+tt7332500,Ghost of the Mountains,2017,Documentary,7.0,47,all
+tt7335796,Behind You,2020,Horror,4.2,52,18+
+tt7336684,The (Silent) War,2019,"Action,Drama,Western",5.5,44,18+
+tt7339248,The Art of Self-Defense,2019,"Action,Comedy,Crime",6.6,68,18+
+tt7358154,Burning Cane,2019,Drama,5.4,58,18+
+tt7365604,Dog Days,2018,"Comedy,Drama,Romance",6.2,60,7+
+tt7370952,Bennett's War,2019,Sport,6.1,61,13+
+tt7374948,Always Be My Maybe,2019,"Comedy,Romance",6.7,88,13+
+tt7375578,The Escape of Prisoner 614,2018,"Action,Adventure,Comedy",4.6,47,13+
+tt7391996,C/o Kancharapalem,2018,Drama,8.8,68,7+
+tt7392212,Rangasthalam,2018,"Action,Drama",8.2,71,13+
+tt7394816,Primal,2019,"Action,Thriller",4.9,60,18+
+tt7395114,The Devil All the Time,2020,"Crime,Drama,Thriller",7.1,89,18+
+tt7411120,For the Love of Jessee,2020,Drama,6.0,43,16+
+tt7423486,Escape and Evasion,2019,"Drama,War",4.6,42,16+
+tt7424290,Max Reload and the Nether Blasters,2020,"Adventure,Comedy,Sci-Fi",4.9,50,13+
+tt7427356,The Last Laugh,2019,"Comedy,Drama",5.6,56,18+
+tt7434324,Low Tide,2019,"Drama,Thriller",6.3,57,18+
+tt7435316,The Glorias,2020,"Biography,Drama,History",6.1,55,18+
+tt7440432,Quincy,2018,"Biography,Documentary",7.6,79,18+
+tt7456312,The Last Thing He Wanted,2020,"Crime,Drama,Mystery",4.4,48,18+
+tt7458762,The Wolf's Call,2019,"Action,Thriller",6.9,67,16+
+tt7460806,The Festival,2018,"Comedy,Music,Romance",5.8,61,18+
+tt7465992,Mahanati,2018,"Biography,Drama",8.4,86,7+
+tt7471004,Aval,2017,Horror,6.7,68,13+
+tt7474914,Unbridled,2018,Thriller,5.0,47,13+
+tt7476236,Minding the Gap,2018,"Documentary,Sport",8.0,90,18+
+tt7488208,Over the Moon,2020,"Adventure,Animation,Comedy",6.3,84,7+
+tt7489816,Nothing to Hide,2018,"Comedy,Drama",6.8,62,18+
+tt7502214,Seven Sundays,2017,"Comedy,Drama,Family",7.6,53,7+
+tt7511008,Paradise Beach,2019,"Action,Thriller",4.7,48,18+
+tt7524414,Beats,2019,"Comedy,Crime,Drama",7.1,65,18+
+tt7525514,Bad Reputation,2018,"Biography,Documentary,Music",7.3,56,18+
+tt7525778,The Package,2018,"Comedy,Thriller",5.6,67,18+
+tt7530986,Lady J,2018,"Drama,Romance",6.8,69,16+
+tt7533152,The Boy Who Harnessed the Wind,2019,"Biography,Drama,History",7.6,89,7+
+tt7544820,Too Funny to Fail: The Life & Death of The Dana Carvey Show,2017,Documentary,7.7,60,18+
+tt7545524,Ben Is Back,2018,Drama,6.7,65,18+
+tt7545566,Skate Kitchen,2018,Drama,6.8,60,18+
+tt7547410,Dora and the Lost City of Gold,2019,"Action,Adventure,Comedy",6.1,68,7+
+tt7549996,Judy,2019,"Biography,Drama,Music",6.8,71,13+
+tt7550000,Project Power,2020,"Action,Crime,Sci-Fi",6.0,69,18+
+tt7556122,The Old Guard,2020,"Action,Thriller",6.7,78,18+
+tt7557108,Saint Maud,2019,"Drama,Horror,Mystery",6.6,71,18+
+tt7558302,Lying and Stealing,2019,"Crime,Drama,Thriller",5.5,64,18+
+tt7562334,Lady Driver,2020,Sport,5.9,51,7+
+tt7573844,Into the Okavango,2018,Documentary,7.5,50,7+
+tt7585674,Sat Shri Akaal England,2017,"Comedy,Family",5.3,39,7+
+tt7588790,Voyeur,2017,"Crime,Documentary",6.1,72,18+
+tt7594134,Hurley,2019,Documentary,7.5,47,7+
+tt7594584,Maria,2019,"Action,Drama,Thriller",5.0,54,18+
+tt7600382,Ride Like a Girl,2019,"Biography,Drama,Sport",7.0,58,7+
+tt7600716,DNA,2020,Drama,5.9,51,18+
+tt7601296,The Legend of Halloween Jack,2018,"Horror,Thriller",3.3,44,18+
+tt7605074,The Wandering Earth,2019,"Action,Adventure,Sci-Fi",5.9,76,13+
+tt7608028,The Open House,2018,"Horror,Thriller",3.3,47,18+
+tt7608418,A Christmas Prince,2017,"Comedy,Family,Romance",5.8,72,7+
+tt7615302,Red Joan,2018,"Biography,Drama,History",6.4,66,18+
+tt7616148,Luce,2019,"Drama,Mystery,Thriller",6.6,64,18+
+tt7627790,Before Your Time,2017,Family,5.8,42,all
+tt7643622,The World We Make,2019,Drama,5.6,46,7+
+tt7653254,Marriage Story,2019,"Drama,Romance",7.9,83,18+
+tt7671064,Brittany Runs a Marathon,2019,"Comedy,Drama",6.8,85,18+
+tt7681824,We the Animals,2018,Drama,6.9,60,18+
+tt7682382,Sweetheart,2019,"Comedy,Drama,Romance",6.1,62,13+
+tt7682430,Howard,2018,"Biography,Documentary,Music",7.5,62,7+
+tt7686876,Unexpectedly Yours,2017,"Comedy,Romance",6.7,48,16+
+tt7689052,Daphne & Velma,2018,"Action,Comedy,Crime",4.2,52,all
+tt7689906,Monsters and Men,2018,"Crime,Drama,Thriller",6.1,56,18+
+tt7689924,Seeing Allred,2018,"Biography,Documentary",7.3,74,16+
+tt7690638,Soorma,2018,"Biography,Drama,Sport",7.3,71,13+
+tt7730102,Big Kill,2019,"Action,Drama,Western",5.4,51,18+
+tt7736496,Jingle Jangle: A Christmas Journey,2020,"Family,Fantasy,Musical",6.4,63,7+
+tt7736536,All of You,2017,"Comedy,Drama,Romance",5.6,42,16+
+tt7748076,This Mountain Life,2018,"Adventure,Documentary",7.2,52,7+
+tt7755856,Banana Split,2018,Comedy,6.2,55,18+
+tt7763020,Dovlatov,2018,"Biography,Drama",6.4,68,13+
+tt7772580,The Perfection,2018,"Drama,Horror,Thriller",6.2,84,18+
+tt7772872,Painter,2020,"Drama,Thriller",4.9,36,7+
+tt7775622,Free Solo,2018,"Adventure,Documentary,Sport",8.1,77,13+
+tt7778680,Photograph,2019,"Drama,Romance",6.8,74,13+
+tt7779590,Euphoria,2018,Drama,6.5,50,18+
+tt7805960,Torbaaz,2020,"Drama,Thriller",5.3,54,18+
+tt7827944,The Wedding Party 2: Destination Dubai,2017,Comedy,4.7,42,13+
+tt7832848,Inside Man: Most Wanted,2019,"Action,Crime,Thriller",5.6,60,18+
+tt7841496,Perdida,2018,"Crime,Drama,Mystery",5.7,53,18+
+tt7846844,Enola Holmes,2020,"Adventure,Crime,Drama",6.6,77,13+
+tt7853242,Love Per Square Foot,2018,"Comedy,Romance",7.1,60,16+
+tt7869070,The Fanatic,2019,"Crime,Drama,Mystery",4.1,54,18+
+tt7873348,Save Yourselves!,2020,"Adventure,Comedy,Sci-Fi",5.8,61,18+
+tt7895904,Family Blood,2018,"Drama,Horror,Thriller",4.2,41,18+
+tt7903530,We Die Young,2019,"Action,Crime,Drama",5.2,54,18+
+tt7913394,Norm of the North: Keys to the Kingdom,2018,"Adventure,Animation,Comedy",3.0,40,7+
+tt7913994,Speed Demons,2018,Documentary,6.4,41,16+
+tt7919810,The Turkey Bowl,2019,"Comedy,Sport",5.4,48,16+
+tt7933796,Disclosure,2020,Drama,6.0,69,18+
+tt7939766,I'm Thinking of Ending Things,2020,"Drama,Thriller",6.5,71,18+
+tt7942746,Body at Brighton Rock,2019,"Comedy,Drama,Fantasy",4.7,50,18+
+tt7945440,The Lie,2018,"Crime,Drama,Mystery",5.8,57,18+
+tt7945450,Notturno,2020,Documentary,6.6,55,18+
+tt7946422,Prospect,2018,"Adventure,Drama,Sci-Fi",6.3,68,18+
+tt7946836,Animal World,2018,"Action,Fantasy,Sci-Fi",6.4,61,18+
+tt7947150,This One's for the Ladies,2018,Documentary,5.4,39,18+
+tt7957694,The Last Summer,2019,"Comedy,Romance",5.6,61,16+
+tt7967412,Eye for an Eye,2019,"Crime,Drama,Thriller",6.6,76,18+
+tt7969042,Social Animals,2018,Documentary,5.7,53,18+
+tt7970348,The Stand In,2020,"Comedy,Drama",4.7,55,18+
+tt7976208,The Haunting of Sharon Tate,2019,"Drama,Horror,Thriller",2.9,48,18+
+tt7979142,The Night Clerk,2020,"Crime,Drama,Mystery",5.6,62,18+
+tt7981318,Cook Off,2017,"Comedy,Romance",6.0,44,18+
+tt7983712,Rogue Warfare: The Hunt,2019,Action,3.2,41,18+
+tt7983744,Rogue Warfare: Death of a Nation,2020,Action,3.3,43,18+
+tt7983894,Ammonite,2020,"Drama,History,Romance",6.5,67,18+
+tt7984734,The Lighthouse,2019,"Drama,Fantasy,Horror",7.4,80,18+
+tt7984766,The King,2019,"Biography,Drama,History",7.3,90,18+
+tt8000718,The Operative,2019,"Action,Drama,Mystery",5.8,62,18+
+tt8015080,Godzilla: City on the Edge of Battle,2018,"Action,Animation,Sci-Fi",5.8,58,13+
+tt8021048,Survive the Hollow Shoals,2018,Horror,5.2,43,18+
+tt8023734,Kadaikutty Singam,2018,"Action,Drama",6.8,55,7+
+tt8028526,Boonie Bears: The Big Shrink,2018,Animation,5.8,43,7+
+tt8041276,Paddleton,2019,"Comedy,Drama",7.2,84,18+
+tt8043306,Teefa In Trouble,2018,"Action,Comedy,Crime",7.0,64,13+
+tt8045906,Words on Bathroom Walls,2020,"Drama,Romance",7.2,66,13+
+tt8055324,Blanche,2018,Comedy,4.8,37,7+
+tt8058874,We Summon the Darkness,2019,"Drama,Horror,Music",5.2,58,18+
+tt8060774,15 Minutes of War,2019,"Action,Drama,History",6.4,56,16+
+tt8064262,Paws P.I.,2018,"Action,Comedy,Family",4.1,43,7+
+tt8064392,Expedition China,2017,Documentary,6.6,40,all
+tt8075016,The Courier,2019,"Action,Crime,Drama",4.8,61,18+
+tt8075192,Shoplifters,2018,"Crime,Drama,Thriller",7.9,76,18+
+tt8075260,Someone Great,2019,"Comedy,Romance",6.2,68,18+
+tt8076222,Untamed Romania,2018,Documentary,8.4,60,7+
+tt8076344,Penguin Highway,2018,"Adventure,Animation,Family",7.1,67,7+
+tt8080302,Penguins,2019,"Documentary,Family",7.1,56,all
+tt8089116,The Cat in the Hat Knows a Lot About Space!,2017,Animation,6.1,34,all
+tt8103160,Britt-Marie Was Here,2019,"Comedy,Drama,Sport",5.6,50,7+
+tt8106534,6 Underground,2019,"Action,Thriller",6.1,75,18+
+tt8106570,The Rachel Divide,2018,Documentary,6.3,64,18+
+tt8106576,The Bleeding Edge,2018,Documentary,7.6,66,16+
+tt8106596,The Legend of Cocaine Island,2018,Documentary,6.4,57,18+
+tt8108230,Pokémon the Movie: The Power of Us,2018,"Action,Adventure,Animation",6.3,70,all
+tt8110640,In the Shadow of the Moon,2019,"Action,Crime,Mystery",6.2,77,18+
+tt8126440,Extinction,2018,Documentary,5.6,74,18+
+tt8128188,High Flying Bird,2019,"Drama,Sport",6.2,66,18+
+tt8130968,Badla,2019,"Crime,Drama,Mystery",7.7,80,7+
+tt8132700,Behind the Curve,2018,Documentary,6.5,77,16+
+tt8135494,Active Measures,2018,Documentary,7.7,66,13+
+tt8145202,The F**k-It List,2020,Comedy,5.2,48,18+
+tt8151874,Honey Boy,2019,Drama,7.2,89,18+
+tt8160834,Follow Me,2020,"Adventure,Horror,Mystery",5.5,55,18+
+tt8169446,Wine Country,2019,"Adventure,Comedy,Drama",5.5,61,18+
+tt8170298,John Henry,2020,"Drama,Thriller",3.6,48,18+
+tt8176578,Flavors of Youth,2018,"Animation,Drama,Romance",6.6,76,13+
+tt8178486,Earthquake Bird,2019,"Crime,Drama,Mystery",6.0,61,18+
+tt8179024,Body Cam,2020,"Horror,Mystery,Thriller",5.3,57,18+
+tt8179388,Rim of the World,2019,"Action,Adventure,Comedy",5.3,63,7+
+tt8186932,M.O.M. Mothers of Monsters,2020,"Drama,Horror,Thriller",5.8,54,18+
+tt8188610,F2: Fun and Frustration,2019,Comedy,6.1,49,7+
+tt8201170,The Perfect Date,2019,"Comedy,Romance",5.8,72,16+
+tt8202262,Justine,2019,Drama,6.7,47,18+
+tt8223844,Modest Heroes,2018,"Adventure,Animation,Family",6.6,61,7+
+tt8230872,The Body Remembers When the World Broke Open,2019,Drama,6.9,67,18+
+tt8236336,The Report,2019,"Biography,Crime,Drama",7.2,89,18+
+tt8236398,In Search of Greatness,2018,"Documentary,Sport",6.9,51,13+
+tt8237172,Gundala,2019,"Action,Adventure,Drama",6.1,57,16+
+tt8241138,Loop,2020,"Drama,Sci-Fi",6.4,57,7+
+tt8242084,My Spy,2020,"Action,Comedy",6.4,76,13+
+tt8246392,Get In,2019,"Drama,Horror,Thriller",5.6,79,18+
+tt8251336,No One Will Ever Know,2018,Drama,6.2,40,18+
+tt8254556,Girl,2018,Drama,7.2,66,18+
+tt8258074,Fantastic Fungi,2019,Documentary,7.4,64,16+
+tt8276106,Tattoo of Revenge,2018,"Comedy,Romance,Thriller",4.9,39,18+
+tt8286926,Njan Prakashan,2018,"Comedy,Drama",7.7,56,all
+tt8296660,A Remarkable Tale,2019,Comedy,5.4,47,7+
+tt8299768,Blow the Man Down,2019,"Comedy,Crime,Drama",6.4,82,18+
+tt8310924,"Faith, Hope & Love",2019,"Comedy,Romance",6.4,70,7+
+tt8318284,The Legion,2020,"Action,Adventure,History",3.3,50,18+
+tt8326250,Sylvia,2018,"Fantasy,Romance,Thriller",5.2,42,16+
+tt8328716,Doom: Annihilation,2019,"Action,Adventure,Horror",3.8,55,18+
+tt8328740,Okko's Inn,2018,"Adventure,Animation,Drama",7.1,80,7+
+tt8332802,Amulet,2020,"Horror,Mystery",4.9,55,18+
+tt8333746,Pinocchio,2019,"Drama,Family,Fantasy",6.3,72,13+
+tt8359848,Climax,2018,"Drama,Horror,Music",6.9,75,18+
+tt8361028,Cam,2018,"Drama,Horror,Mystery",5.9,64,18+
+tt8362228,The Stand at Paxton County,2020,"Drama,Thriller",6.4,50,18+
+tt8364368,Crawl,2019,"Action,Horror,Thriller",6.1,72,18+
+tt8367184,The Wedding Year,2019,"Comedy,Romance",5.6,52,18+
+tt8368406,Vivarium,2019,"Horror,Mystery,Sci-Fi",5.9,71,18+
+tt8372368,Rocketman,2019,Documentary,6.4,79,18+
+tt8380776,Grand Isle,2019,"Crime,Mystery,Thriller",4.7,59,18+
+tt8393332,Twin Murders: The Silence of the White City,2019,"Crime,Drama,Mystery",5.4,54,18+
+tt8400758,Killers Anonymous,2019,"Action,Crime,Mystery",4.0,54,18+
+tt8404614,The Two Popes,2019,"Biography,Drama",7.6,76,13+
+tt8406660,Inmate Zero,2020,Horror,4.3,49,16+
+tt8413566,Disconnect,2018,"Comedy,Romance",5.0,41,18+
+tt8430598,Shirley,2020,"Biography,Drama,Mystery",6.1,64,18+
+tt8431078,Friendsgiving,2020,"Comedy,Drama",4.5,50,18+
+tt8435268,How to Get Over a Breakup,2018,Comedy,6.1,56,18+
+tt8435324,Bombay Rose,2019,"Animation,Drama,Romance",6.5,46,13+
+tt8436026,A Fortunate Man,2018,"Drama,Romance",7.2,75,16+
+tt8439854,Lust Stories,2018,"Drama,Romance",6.3,63,13+
+tt8443704,Dear Ex,2018,"Comedy,Drama,Romance",7.3,82,18+
+tt8459250,Shéhérazade,2018,"Drama,Romance,Thriller",7.1,59,18+
+tt8461224,The Tax Collector,2020,"Action,Crime,Drama",4.9,61,18+
+tt8478602,Godzilla: The Planet Eater,2018,"Action,Adventure,Animation",5.1,56,7+
+tt8484012,Sword of Trust,2019,"Comedy,Drama",6.3,62,18+
+tt8484160,Black Beauty,2020,"Drama,Family",6.4,58,7+
+tt8503618,Hamilton,2020,"Biography,Drama,History",8.3,81,13+
+tt8508734,His House,2020,"Drama,Horror,Thriller",6.4,87,16+
+tt8510324,Good Game: The Beginning,2018,"Comedy,Drama,Sport",4.7,42,13+
+tt8510488,Holiday in the Wild,2019,"Comedy,Drama,Romance",6.2,63,7+
+tt8514564,The Interpreters,2018,Documentary,7.5,46,13+
+tt8522006,Happiest Season,2020,"Comedy,Romance",6.6,83,13+
+tt8523028,Roped,2020,"Drama,Romance",5.5,51,7+
+tt8526872,Dolemite Is My Name,2019,"Biography,Comedy,Drama",7.2,92,18+
+tt8529070,Pinky Memsaab,2018,"Drama,Family",6.3,48,7+
+tt8530796,Light in the Dark,2020,Thriller,6.2,39,16+
+tt8530978,Beats,2019,"Drama,Music",6.4,65,18+
+tt8563452,Crypto,2019,"Crime,Drama,Thriller",5.3,58,18+
+tt8574836,Cunningham,2019,"Biography,Documentary,Music",6.6,45,7+
+tt8580274,Eurovision Song Contest: The Story of Fire Saga,2020,"Comedy,Music",6.5,84,13+
+tt8581198,Jane and Emma,2018,"Drama,History",6.2,42,7+
+tt8595708,Pulang,2018,"Adventure,Drama,Romance",6.7,48,16+
+tt8599746,Let's Dance,2019,"Comedy,Drama,Family",6.0,51,18+
+tt8613070,Portrait of a Lady on Fire,2019,"Drama,Romance",8.0,80,18+
+tt8613876,Kidnapping Stella,2019,"Crime,Drama,Thriller",4.9,55,18+
+tt8618654,Kiss the Ground,2020,Documentary,8.1,87,18+
+tt8629748,Spenser Confidential,2020,"Action,Comedy,Crime",6.2,73,18+
+tt8632862,Fahrenheit 11/9,2018,Documentary,7.2,66,18+
+tt8633478,Run,2020,"Drama,Horror,Mystery",6.7,74,13+
+tt8637428,The Farewell,2019,"Comedy,Drama",7.5,76,7+
+tt8637504,Disclosure,2020,Documentary,8.1,69,18+
+tt8663516,Child's Play,2019,"Drama,Horror,Sci-Fi",5.7,67,18+
+tt8664988,The Blackout,2019,"Action,Sci-Fi,Thriller",6.0,66,18+
+tt8665746,RX 100,2018,Action,6.9,52,all
+tt8704802,The Last Blockbuster,2020,Documentary,6.7,61,16+
+tt8706138,Ava,2020,"Sci-Fi,Thriller",3.0,70,18+
+tt8709036,A Christmas Prince: The Royal Wedding,2018,"Comedy,Drama,Romance",5.3,63,7+
+tt8717446,Blackbird,2019,Drama,6.6,61,18+
+tt8737608,Rams,2020,"Comedy,Drama",6.5,60,13+
+tt8741182,Dance Dreams: Hot Chocolate Nutcracker,2020,"Documentary,Family",7.1,48,all
+tt8743032,The Silence of the Marsh,2019,"Action,Drama,Mystery",5.0,55,18+
+tt8749922,Grand-Daddy Day Care,2019,"Comedy,Family",5.0,50,13+
+tt8750122,Benchwarmers 2: Breaking Balls,2019,"Comedy,Sport",4.1,46,13+
+tt8750570,Sergio,2020,"Biography,Drama,History",6.2,66,18+
+tt8758086,Mercy Black,2019,"Horror,Mystery,Thriller",4.9,55,16+
+tt8759834,Selah and the Spades,2019,Drama,5.1,54,18+
+tt8765496,May the Devil Take You,2018,"Horror,Mystery,Thriller",5.9,70,18+
+tt8769848,The Tomorrow Man,2019,"Drama,Romance",5.9,54,13+
+tt8772262,Midsommar,2019,"Drama,Horror,Mystery",7.1,80,18+
+tt8774798,100% Wolf,2020,"Adventure,Animation,Comedy",5.7,59,7+
+tt8783532,School Life,2019,"Comedy,Drama",6.5,56,18+
+tt8784956,Ava,2020,"Action,Crime,Drama",5.5,70,18+
+tt8809652,10 Minutes Gone,2019,"Action,Crime,Mystery",3.7,51,18+
+tt8820590,T-34,2018,"Action,War",6.8,65,16+
+tt8851668,The Lovebirds,2020,"Action,Comedy,Crime",6.1,66,18+
+tt8856470,Pokémon: Mewtwo Strikes Back - Evolution,2019,"Action,Animation,Family",5.7,58,7+
+tt8858104,Guava Island,2019,"Comedy,Drama,Music",6.7,64,18+
+tt8858420,Women of Mafia 2,2019,"Action,Crime,Drama",3.8,45,18+
+tt8861786,Puppy Star Christmas,2018,"Comedy,Family,Musical",3.8,35,7+
+tt8875940,Four Enchanted Sisters,2020,"Adventure,Comedy,Family",4.8,42,7+
+tt8902948,Tigertail,2020,Drama,6.6,56,7+
+tt8902978,Wander Darkly,2020,"Drama,Mystery,Thriller",5.8,55,18+
+tt8908002,Luka Chuppi,2019,"Comedy,Romance",6.4,60,7+
+tt8914492,Game Over,2019,"Drama,Mystery,Thriller",6.9,74,13+
+tt8917752,Joy,2018,Drama,6.6,57,18+
+tt8923482,One Child Nation,2019,"Documentary,History",7.5,84,18+
+tt8925540,Racetime,2018,"Adventure,Animation,Family",5.6,48,7+
+tt8936646,Extraction,2020,"Action,Crime,Thriller",6.8,87,18+
+tt8946378,Knives Out,2019,"Comedy,Crime,Drama",7.9,85,13+
+tt8949056,"Yes, God, Yes",2019,"Comedy,Drama",6.1,65,18+
+tt8951058,The Panama Papers,2018,Documentary,7.1,58,13+
+tt8954732,The Princess Switch,2018,"Comedy,Drama,Family",6.1,63,7+
+tt8972556,I Am Vengeance: Retaliation,2020,Action,3.5,45,18+
+tt8976576,Vampires vs. the Bronx,2020,"Comedy,Horror",5.7,59,13+
+tt8976710,Sextuplets,2019,Comedy,4.5,55,16+
+tt8983164,Chhalaang,2020,"Comedy,Drama,Sport",6.6,58,16+
+tt8983240,Laatu,2018,Drama,6.7,39,7+
+tt8988748,Seventeen,2019,Drama,7.2,60,18+
+tt8997712,Broil,2020,"Fantasy,Horror,Thriller",4.6,53,16+
+tt9010900,Boi,2019,"Mystery,Thriller",5.1,45,18+
+tt9014248,Mutiny of the Worker Bees,2020,Comedy,4.2,44,18+
+tt9026184,Girl on the Third Floor,2019,"Drama,Horror,Mystery",4.7,57,18+
+tt9032888,Good Sam,2019,"Comedy,Drama,Romance",5.8,46,7+
+tt9056818,Last Breath,2019,"Documentary,Drama",7.6,65,18+
+tt9063902,"Live Twice, Love Once",2019,"Comedy,Drama",7.2,71,18+
+tt9068272,First Lady,2020,"Comedy,Romance",4.0,36,7+
+tt9086228,Gretel & Hansel,2020,"Fantasy,Horror,Mystery",5.5,65,13+
+tt9100028,The Little Switzerland,2019,Comedy,4.9,45,13+
+tt9109976,Psycho,2020,"Crime,Thriller",6.2,54,18+
+tt9115528,Never Too Late,2020,"Comedy,Drama,Romance",6.0,48,16+
+tt9125380,A Promise to Astrid,2019,Drama,5.6,41,7+
+tt9139586,Arkansas,2020,"Action,Crime,Mystery",6.1,63,18+
+tt9149946,Bernie the Dolphin 2,2019,"Action,Comedy,Family",4.6,42,all
+tt9150970,Despite Everything,2019,Comedy,5.4,50,18+
+tt9176296,Dolly Kitty and Those Twinkling Stars,2019,"Comedy,Drama",5.2,49,18+
+tt9204088,Dog Days,2018,Drama,5.2,60,7+
+tt9204164,Bigfoot Family,2020,"Adventure,Animation,Family",5.8,56,7+
+tt9219848,Elon Musk: The Real Life Iron Man,2018,"Biography,Documentary",6.0,51,7+
+tt9239888,The Ruthless,2019,"Crime,Drama",6.3,55,18+
+tt9252508,Tall Girl,2019,"Comedy,Drama,Family",5.2,57,7+
+tt9253926,The Curse of Hobbes House,2020,"Drama,Horror",3.4,41,18+
+tt9257932,Animal World,2018,"Comedy,Drama",6.4,61,18+
+tt9261218,Uncorked,2020,Drama,6.4,75,13+
+tt9264728,What Lies Below,2020,"Drama,Horror,Sci-Fi",4.4,56,18+
+tt9270416,Fantastica,2018,"Comedy,Fantasy",3.8,44,all
+tt9310328,Altered Carbon: Resleeved,2020,"Action,Animation,Crime",6.4,61,18+
+tt9316022,Struggle: The Life and Lost Art of Szukalski,2018,"Biography,Documentary",7.9,67,18+
+tt9326056,Sea of Shadows,2019,"Crime,Documentary,History",7.3,56,13+
+tt9345754,The Occupant,2020,"Drama,Thriller",6.4,67,18+
+tt9351980,American Factory,2019,Documentary,7.4,86,13+
+tt9354842,To All the Boys: P.S. I Still Love You,2020,"Comedy,Drama,Romance",6.1,68,16+
+tt9358044,Hail Satan?,2019,Documentary,7.3,63,18+
+tt9358052,Knock Down the House,2019,Documentary,7.4,73,7+
+tt9358206,Toni Morrison: The Pieces I Am,2019,Documentary,7.8,52,13+
+tt9395384,One Great Love,2018,"Drama,Romance",6.1,44,13+
+tt9398640,Between Two Ferns: The Movie,2019,Comedy,6.1,74,18+
+tt9411866,The Roads Not Taken,2020,Drama,5.2,53,18+
+tt9412098,Fyre,2019,"Crime,Documentary,Music",7.2,91,18+
+tt9412268,Furie,2019,"Action,Drama,Thriller",6.3,63,18+
+tt9419834,Secret Obsession,2019,"Crime,Drama,Mystery",4.5,52,13+
+tt9426186,Revenger,2018,"Action,Crime,Thriller",5.7,56,18+
+tt9441638,The Big Ugly,2020,"Crime,Drama,Thriller",5.2,53,18+
+tt9465600,3022,2019,Sci-Fi,4.5,57,18+
+tt9484998,Palm Springs,2020,"Comedy,Fantasy,Mystery",7.4,79,18+
+tt9495224,Black Mirror: Bandersnatch,2018,"Drama,Fantasy,Mystery",7.1,75,18+
+tt9506474,The Hater,2020,"Drama,Thriller",7.1,83,18+
+tt9537292,Ala Vaikunthapurramuloo,2020,"Action,Comedy,Drama",7.3,62,13+
+tt9564774,Venky Mama,2019,Drama,5.5,49,13+
+tt9567112,A Kid from Coney Island,2019,"Biography,Documentary,Sport",7.0,51,18+
+tt9577334,Red Dog,2019,Documentary,6.9,51,18+
+tt9577852,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019,"Biography,Documentary,History",7.5,68,18+
+tt9600932,The Brink,2019,Documentary,6.4,51,18+
+tt9612368,An English Haunting,2020,Horror,4.3,45,13+
+tt9613244,Autonomy,2019,Documentary,6.5,46,7+
+tt9617716,Everybody's Everything,2019,"Documentary,Music",7.5,63,18+
+tt9617782,Who Let the Dogs Out,2019,Documentary,7.0,44,13+
+tt9619798,The Wrong Missy,2020,"Comedy,Romance",5.8,70,18+
+tt9624766,Jiu Jitsu,2020,"Action,Sci-Fi,Thriller",2.9,56,18+
+tt9632590,An Easy Girl,2019,"Comedy,Drama",5.6,70,18+
+tt9636630,Home Sweet Home,2020,"Comedy,Drama,Romance",4.8,47,7+
+tt9646240,The Man Without Gravity,2019,"Comedy,Drama,Fantasy",5.8,58,16+
+tt9660688,Black Beach,2020,"Crime,Drama,Thriller",5.6,51,18+
+tt9683478,The Half of It,2020,"Comedy,Drama",6.9,89,13+
+tt9689696,Wander,2020,Thriller,4.9,59,18+
+tt9708358,Uncle Tom,2020,"Documentary,History",8.2,69,all
+tt9735350,Rebuilding Paradise,2020,Documentary,6.9,57,13+
+tt9735758,Get Duked!,2019,"Comedy,Horror,Music",6.2,73,18+
+tt9735976,Wheels of Fortune,2020,Comedy,5.5,45,18+
+tt9738716,The World to Come,2020,"Drama,History,Western",6.4,65,18+
+tt9760504,NiNoKuni,2019,"Action,Adventure,Animation",6.1,53,16+
+tt9777644,Da 5 Bloods,2020,"Adventure,Drama,War",6.5,70,18+
+tt9778348,The Winter Lake,2020,"Drama,Mystery,Thriller",4.7,50,18+
+tt9779290,By Night's End,2020,"Crime,Thriller",4.5,43,18+
+tt9779516,I Still Believe,2020,"Biography,Drama,Music",6.5,64,7+
+tt9794630,The Vanished,2020,"Action,Crime,Thriller",5.8,60,18+
+tt9799984,Falaknuma Das,2019,"Action,Thriller",6.3,52,18+
+tt9806192,I Lost My Body,2019,"Animation,Drama,Fantasy",7.5,89,18+
+tt9806322,Isi & Ossi,2020,"Comedy,Romance",6.4,62,18+
+tt9809140,All the Freckles in the World,2019,"Comedy,Romance,Sport",5.1,46,16+
+tt9810420,A Second Chance: Rivals!,2019,"Drama,Family,Sport",4.9,48,7+
+tt9815998,Hooking Up,2020,"Comedy,Drama",5.6,55,18+
+tt9820352,Villain,2020,"Action,Crime,Drama",5.9,52,18+
+tt9827834,Sylvie's Love,2020,"Drama,Music,Romance",6.8,78,13+
+tt9844368,Out of Liberty,2019,"Drama,Western",4.6,45,7+
+tt9860728,Falling Inn Love,2019,"Comedy,Romance",5.7,62,7+
+tt9898858,Coffee & Kareem,2020,"Action,Comedy,Crime",5.2,51,18+
+tt9902160,Herself,2020,Drama,7.0,61,18+
+tt9916362,Coven,2020,"Drama,History,Horror",6.4,58,18+

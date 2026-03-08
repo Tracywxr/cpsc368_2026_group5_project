@@ -208,3 +208,8 @@ __marimo__/
 
 # mac
 .DS_Store
+
+# Ignore huge IMDb raw datasets
+data/raw/title.basics.tsv
+data/raw/title.akas.tsv
+data/raw/title.ratings.tsv
