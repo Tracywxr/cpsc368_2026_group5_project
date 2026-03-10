@@ -6,6 +6,7 @@ Purpose:
 - Clean three source datasets
 - Export three cleaned source CSVs
 - Build two combined analysis CSVs
+- Build three database-ready CSVs based on the SQL schema
 - Record row counts for report writing
 """
 
@@ -24,6 +25,7 @@ DATA_DIR = "data"
 RAW_DIR = os.path.join(DATA_DIR, "raw")
 CLEANED_DIR = os.path.join(DATA_DIR, "cleaned")
 COMBINED_DIR = os.path.join(DATA_DIR, "combined")
+DB_READY_DIR = os.path.join(DATA_DIR, "db_ready")
 NOTES_DIR = "notes"
 
 BASICS_FILE = os.path.join(RAW_DIR, "title.basics.tsv")
@@ -39,6 +41,10 @@ BOXOFFICE_CLEANED_FILE = os.path.join(CLEANED_DIR, "boxoffice_cleaned.csv")
 MOVIES_RATINGS_GENRES_FILE = os.path.join(COMBINED_DIR, "movies_ratings_genres.csv")
 MOVIES_BOXOFFICE_FILE = os.path.join(COMBINED_DIR, "movies_boxoffice.csv")
 
+DB_MOVIES_FILE = os.path.join(DB_READY_DIR, "movies.csv")
+DB_RATINGS_FILE = os.path.join(DB_READY_DIR, "ratings.csv")
+DB_BOXOFFICE_FILE = os.path.join(DB_READY_DIR, "boxoffice.csv")
+
 COUNTS_FILE = os.path.join(NOTES_DIR, "part1_counts.txt")
 
 
@@ -50,6 +56,7 @@ def ensure_directories() -> None:
     """Create output folders if they do not already exist."""
     os.makedirs(CLEANED_DIR, exist_ok=True)
     os.makedirs(COMBINED_DIR, exist_ok=True)
+    os.makedirs(DB_READY_DIR, exist_ok=True)
     os.makedirs(NOTES_DIR, exist_ok=True)
 
 
@@ -146,18 +153,14 @@ def clean_basics(basics: pd.DataFrame, counts: dict) -> pd.DataFrame:
 
     basics = basics.replace("\\N", pd.NA)
 
-    # Keep only movie rows
     basics = basics[basics["titleType"] == "movie"]
     counts["basics_after_movie_filter"] = len(basics)
 
-    # Drop missing values needed for analysis
     basics = basics.dropna(subset=["primaryTitle", "startYear", "genres"])
 
-    # Convert year to numeric
     basics["startYear"] = pd.to_numeric(basics["startYear"], errors="coerce")
     basics = basics.dropna(subset=["startYear"])
 
-    # Filter to target period
     basics = basics[(basics["startYear"] >= 2015) & (basics["startYear"] <= 2020)]
     counts["basics_after_year_filter"] = len(basics)
 
@@ -276,10 +279,8 @@ def build_streaming_cleaned(streaming: pd.DataFrame, counts: dict) -> pd.DataFra
     streaming["Year"] = pd.to_numeric(streaming["Year"], errors="coerce")
     streaming = streaming.dropna(subset=["Year"])
 
-    # Filter to project time period
     streaming = streaming[(streaming["Year"] >= 2015) & (streaming["Year"] <= 2020)]
 
-    # Convert values like "98/100" to 98
     streaming["Rotten Tomatoes"] = (
         streaming["Rotten Tomatoes"]
         .astype(str)
@@ -298,7 +299,6 @@ def build_streaming_cleaned(streaming: pd.DataFrame, counts: dict) -> pd.DataFra
 
     streaming["year"] = streaming["year"].astype(int)
 
-    # Helper columns for joining only
     streaming["join_title"] = clean_title(streaming["title"])
     streaming["join_year"] = streaming["year"].astype(int)
 
@@ -331,7 +331,6 @@ def build_boxoffice_cleaned(boxoffice: pd.DataFrame, counts: dict) -> pd.DataFra
     boxoffice["Year"] = pd.to_numeric(boxoffice["Year"], errors="coerce")
     boxoffice = boxoffice.dropna(subset=["Year"])
 
-    # Filter to project time period
     boxoffice = boxoffice[(boxoffice["Year"] >= 2015) & (boxoffice["Year"] <= 2020)]
 
     boxoffice["Gross"] = (
@@ -351,7 +350,6 @@ def build_boxoffice_cleaned(boxoffice: pd.DataFrame, counts: dict) -> pd.DataFra
 
     boxoffice["year"] = boxoffice["year"].astype(int)
 
-    # Helper columns for joining only
     boxoffice["join_title"] = clean_title(boxoffice["title"])
     boxoffice["join_year"] = boxoffice["year"].astype(int)
 
@@ -456,7 +454,45 @@ def build_movies_boxoffice(
 
 
 # ============================================================
-# STEP 10: MAIN WORKFLOW
+# STEP 10: BUILD DATABASE-READY TABLE CSVs
+# ============================================================
+
+def build_db_ready_tables(
+    movies_ratings_genres: pd.DataFrame,
+    movies_boxoffice: pd.DataFrame,
+    counts: dict
+):
+    """
+    Build normalized CSVs that match the planned SQL schema.
+
+    Output tables:
+    - movies.csv
+    - ratings.csv
+    - boxoffice.csv
+    """
+    print("Building db_ready table CSVs...")
+
+    movies_table = movies_ratings_genres[
+        ["movie_id", "title", "year", "genres", "age"]
+    ].drop_duplicates(subset=["movie_id"])
+
+    ratings_table = movies_ratings_genres[
+        ["movie_id", "imdb_rating", "rotten_tomatoes"]
+    ].drop_duplicates(subset=["movie_id"])
+
+    boxoffice_table = movies_boxoffice[
+        ["movie_id", "gross"]
+    ].drop_duplicates(subset=["movie_id"])
+
+    counts["db_movies"] = len(movies_table)
+    counts["db_ratings"] = len(ratings_table)
+    counts["db_boxoffice"] = len(boxoffice_table)
+
+    return movies_table, ratings_table, boxoffice_table
+
+
+# ============================================================
+# STEP 11: MAIN WORKFLOW
 # ============================================================
 
 def main() -> None:
@@ -502,6 +538,16 @@ def main() -> None:
         movies_ratings_genres, boxoffice_cleaned, counts
     )
     export_csv(movies_boxoffice, MOVIES_BOXOFFICE_FILE)
+
+    # --------------------------------------------------------
+    # Build database-ready normalized tables
+    # --------------------------------------------------------
+    db_movies, db_ratings, db_boxoffice = build_db_ready_tables(
+        movies_ratings_genres, movies_boxoffice, counts
+    )
+    export_csv(db_movies, DB_MOVIES_FILE)
+    export_csv(db_ratings, DB_RATINGS_FILE)
+    export_csv(db_boxoffice, DB_BOXOFFICE_FILE)
 
     # --------------------------------------------------------
     # Save row counts and print summary

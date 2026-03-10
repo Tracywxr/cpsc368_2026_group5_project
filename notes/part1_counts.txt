@@ -15,3 +15,6 @@ streaming_cleaned: 2307
 boxoffice_cleaned: 1200
 movies_ratings_genres: 1619
 movies_boxoffice: 205
+db_movies: 1619
+db_ratings: 1619
+db_boxoffice: 205
