@@ -213,3 +213,7 @@ __marimo__/
 data/raw/title.basics.tsv
 data/raw/title.akas.tsv
 data/raw/title.ratings.tsv
+data/raw/title.basics.tsv.gz
+data/raw/title.akas.tsv.gz
+data/raw/title.ratings.tsv.gz
+data/raw/name.basics.tsv.gz
