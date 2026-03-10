@@ -4,9 +4,9 @@ ratings_original: 1627720
 streaming_original: 9515
 boxoffice_original: 8145
 basics_after_movie_filter: 737954
-basics_after_year_filter: 106623
+basics_after_year_filter_cleaned: 106623
 akas_after_region_filter: 2017820
-akas_after_dedup: 1741261
-ratings_after_cleaning: 1627720
+akas_after_dedup_cleaned: 1741261
+ratings_cleaned: 1627720
 streaming_cleaned: 2307
 boxoffice_cleaned: 1200

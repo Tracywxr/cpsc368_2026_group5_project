@@ -137,7 +137,7 @@ def clean_basics(basics: pd.DataFrame, counts: dict) -> pd.DataFrame:
     basics = basics.dropna(subset=["startYear"])
 
     basics = basics[(basics["startYear"] >= 2015) & (basics["startYear"] <= 2020)]
-    counts["basics_after_year_filter"] = len(basics)
+    counts["basics_after_year_filter_cleaned"] = len(basics)
 
     return basics
 
@@ -161,7 +161,7 @@ def clean_akas(akas: pd.DataFrame, counts: dict) -> pd.DataFrame:
     counts["akas_after_region_filter"] = len(akas)
 
     akas = akas.drop_duplicates(subset=["titleId"])
-    counts["akas_after_dedup"] = len(akas)
+    counts["akas_after_dedup_cleaned"] = len(akas)
 
     return akas
 
@@ -184,7 +184,7 @@ def clean_ratings(ratings: pd.DataFrame, counts: dict) -> pd.DataFrame:
     ratings["averageRating"] = pd.to_numeric(ratings["averageRating"], errors="coerce")
     ratings = ratings.dropna(subset=["averageRating"])
 
-    counts["ratings_after_cleaning"] = len(ratings)
+    counts["ratings_cleaned"] = len(ratings)
 
     return ratings
 
