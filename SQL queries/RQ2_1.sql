@@ -1,3 +1,4 @@
+
 SELECT
     CASE
         WHEN m.age = '18+' THEN 'Adult'

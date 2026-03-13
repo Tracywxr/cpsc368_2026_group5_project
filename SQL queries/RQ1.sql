@@ -1,3 +1,4 @@
+
 SELECT
     m.movieID,
     m.title,
@@ -11,3 +12,4 @@ SELECT
 FROM Movies m
 JOIN Ratings r
     ON m.movieID = r.movieID;
+    
