@@ -286,7 +286,7 @@ def clean_boxoffice(boxoffice: pd.DataFrame, counts: dict) -> pd.DataFrame:
 
 
 # ============================================================
-# STEP 11: MAIN WORKFLOW
+# STEP 8: MAIN WORKFLOW
 # ============================================================
 
 def main() -> None:
