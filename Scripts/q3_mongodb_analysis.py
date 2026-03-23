@@ -97,7 +97,9 @@ movies_df = movies_df.drop(columns=['titleId'])
 # ----------------------------
 # STEP 5: Create 'isAdult' column
 # ----------------------------
-movies_df["isAdult"] = movies_df["age"].apply(lambda x: True if str(x).strip() == "18+" else False)
+movies_df["isAdult"] = movies_df["age"].apply(lambda x: True if str(x).strip() == "18+"
+                                              else False if str(x).strip() in ["13+", "7+", "16+", "all"]
+                                              else None)
 
 # ----------------------------
 # STEP 6: Transform to MongoDB document structure
