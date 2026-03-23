@@ -13,8 +13,10 @@ from pymongo import MongoClient
 # ----------------------------
 # STEP 0: User configuration
 # ----------------------------
-CWL = 'yxin04' 
-SNUM = '40949349'
+# CWL = 'yxin04' 
+# SNUM = '40949349'
+CWL = 'xchen165' 
+SNUM = '97572945'
 DB_NAME = CWL
 COLLECTION_NAME = 'movies'
 
@@ -79,27 +81,43 @@ boxoffice = boxoffice.rename(columns={
 # ----------------------------
 # STEP 4: Merge datasets
 # ----------------------------
-# basics + ratings
-movies_df = basics.merge(ratings, on='movieID', how='left')
+# basics INNER JOIN streaming
+movies_df = basics.merge(streaming, on=['title', 'year'], how='left')
 
-# merge with streaming on title + year
-movies_df = movies_df.merge(streaming, on=['title','year'], how='left')
+# LEFT JOIN ratings
+movies_df = movies_df.merge(ratings, on='movieID', how='left')
 
-# merge with boxoffice on title + year
-movies_df = movies_df.merge(boxoffice, on=['title','year'], how='left')
+# Restrict boxoffice to matched movies first
+boxoffice_matched = boxoffice.merge(
+    movies_df[['movieID', 'title', 'year']],
+    on=['title', 'year'],
+    how='inner'
+)
 
-# store regions as a list of strings
+# Merge boxoffice into movies
+movies_df = movies_df.merge(
+    boxoffice_matched[['movieID', 'gross']],
+    on='movieID',
+    how='left'
+)
+
+# Merge akas
 akas_grouped = akas.groupby('titleId')['region'].apply(list).reset_index()
-# Only merge if movieID matches titleId
-movies_df = movies_df.merge(akas_grouped, left_on='movieID', right_on='titleId', how='left')
-movies_df = movies_df.drop(columns=['titleId'])
+
+movies_df = movies_df.merge(
+    akas_grouped,
+    left_on='movieID',
+    right_on='titleId',
+    how='left'
+).drop(columns=['titleId'])
+
+# Remove duplicate movies
+movies_df = movies_df.drop_duplicates(subset=['movieID'])
 
 # ----------------------------
 # STEP 5: Create 'isAdult' column
 # ----------------------------
-movies_df["isAdult"] = movies_df["age"].apply(lambda x: True if str(x).strip() == "18+"
-                                              else False if str(x).strip() in ["13+", "7+", "16+", "all"]
-                                              else None)
+movies_df["isAdult"] = movies_df["age"].apply(lambda x: True if str(x).strip() == "18+" else False)
 
 # ----------------------------
 # STEP 6: Transform to MongoDB document structure
